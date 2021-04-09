@@ -1,52 +1,30 @@
 What Makes Someone a Data Scientist?
 
-
 1. Hal Varian, the chief economist at Google, declared that "the sexy job in the next ten years will be ___________________".
-
-	Engineers.
-
+  Engineers.
 * Statisticians.
-
-	Physicists.
-
-	Computer Scientists.
-
+  Physicists.
+  Computer Scientists.
 
 2. The author defines a data scientist as someone who uses complicated machine learning to build predictive models, publishes their research results in online blogs, and works from home.
-
 * False.
-
-True.
-
+  True.
 
 3. According to the reading, the author defines data science as the art of uncovering the hidden secrets in data.
-
-	True.
-
+  True.
 * False.
 
-
 4. According to the reading, what is admirable about Dr. Patil¡¯s definition of a data scientist?
-
-	His definition is about weaving strong narratives into analytics.
-
+  His definition is about weaving strong narratives into analytics.
 * His definition is inclusive of individuals from various academic backgrounds and training.
-
-	His definition excludes statistics.
-
-	His definition limits data science to activities involving machine learning.
-
+  His definition excludes statistics.
+  His definition limits data science to activities involving machine learning.
 
 5. According to the reading, what characteristics are said to be exhibited by the best data scientists?
-
-	Really curious engineers and statisticians.
-
-	Really curious people who ask good questions.
-
-	Really curious people who ask good questions and have at least 10 years of experience.
-
+  Really curious engineers and statisticians.
+  Really curious people who ask good questions.
+  Really curious people who ask good questions and have at least 10 years of experience.
   Thinkers who are really curious and hold a Ph.D.
-
 * Curious individuals who ask good questions and are O.K. dealing with unstructured situations.
 
 
