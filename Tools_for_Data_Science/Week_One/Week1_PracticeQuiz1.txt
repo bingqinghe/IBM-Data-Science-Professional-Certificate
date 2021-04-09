@@ -1,1 +1,35 @@
-Packages, APIs, Data Sets, Models1. Which scientific computing library provides data structures and data analysis tools for Python?  TensorFlow* Pandas  YumPies  Seahorse  2. What does the acronym API stand for?Abstract Programming Interface* Application Programming InterfaceAlgorithmic Programming InterfaceAbstract Python Interface3. True or False: Open data is always distributed under a Community Data License Agreement.True * False4. Which of the following is not a type of Machine Learning?Reinforcement learningSupervised learning* Supervised teachingUnsupervised learning5. Which of the following is NOT a deep learning framework?TensorFlowPyTorch* TommyKeras6. Fill in the blank: The MAX model-serving microservices expose a _________________ that applications use to consume a model.Scala APIJava API* REST APIPython API
+Packages, APIs, Data Sets, Models
+
+1. Which scientific computing library provides data structures and data analysis tools for Python?
+  TensorFlow
+* Pandas
+  YumPies
+  Seahorse
+  
+2. What does the acronym API stand for?
+  Abstract Programming Interface
+* Application Programming Interface
+  Algorithmic Programming Interface
+  Abstract Python Interface
+
+3. True or False: Open data is always distributed under a Community Data License Agreement.
+  True 
+* False
+
+4. Which of the following is not a type of Machine Learning?
+  Reinforcement learning
+  Supervised learning
+* Supervised teaching
+  Unsupervised learning
+
+5. Which of the following is NOT a deep learning framework?
+  TensorFlow
+  PyTorch
+* Tommy
+  Keras
+
+6. Fill in the blank: The MAX model-serving microservices expose a _________________ that applications use to consume a model.
+  Scala API
+  Java API
+* REST API
+  Python API
