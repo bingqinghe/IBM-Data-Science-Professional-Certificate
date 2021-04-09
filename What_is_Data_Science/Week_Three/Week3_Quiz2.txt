@@ -1,1 +1,25 @@
-The Report Structure1. Regardless of the length of the final deliverable, the author recommends that it includes a cover page, table of contents, executive summary, a methodology section, and a discussion section.* True.	False.2. An introductory section is always helpful in introducing the research methods and presenting the statistical calculations.* False.True.3. The results section is where you present:The conclusion.The methods used.* The empirical findings.R Squared.4. The discussion section is where you introduce the research methods and data sources used for the analysis.* False.True.5. According to the reading, what is an example of housekeeping?Adding headings to charts.Adding slide numbers.Saving the report as a PDF file.* Adding a list of references.
+The Report Structure
+
+1. Regardless of the length of the final deliverable, the author recommends that it includes a cover page, table of contents, executive summary, a methodology section, and a discussion section.
+* True.
+  False.
+
+2. An introductory section is always helpful in introducing the research methods and presenting the statistical calculations.
+* False.
+  True.
+
+3. The results section is where you present:
+  The conclusion.
+  The methods used.
+* The empirical findings.
+  R Squared.
+
+4. The discussion section is where you introduce the research methods and data sources used for the analysis.
+* False.
+  True.
+
+5. According to the reading, what is an example of housekeeping?
+  Adding headings to charts.
+  Adding slide numbers.
+  Saving the report as a PDF file.
+* Adding a list of references.
