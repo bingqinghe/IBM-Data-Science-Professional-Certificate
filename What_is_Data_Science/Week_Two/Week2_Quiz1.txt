@@ -1,1 +1,23 @@
-Data Mining1. According to the reading, the output of a data mining exercise largely depends on the skills of the data scientist carrying out the exercise.	True.* False.2. When data are missing in a systematic way, you can simply extrapolate the data or impute the missing data by filling in the average of the values around the missing data.	True.* False.3. Prior Variable Analysis and Principal Component Analysis are both examples of a data reduction algorithm.* False.	True.4. After the data are appropriately processed, transformed, and stored, what is a good starting point for data mining?Machine learning.* Data Visualization.Non-parametric methods.Creating a relational database.5. In-sample forecast is the process of formally evaluating the predictive capabilities of the models developed using observed data to see how effective the algorithms are in reproducing data.* True.False.
+# Data Mining
+
+1. According to the reading, the output of a data mining exercise largely depends on the skills of the data scientist carrying out the exercise.
+	True.
+* False.
+
+2. When data are missing in a systematic way, you can simply extrapolate the data or impute the missing data by filling in the average of the values around the missing data.
+	True.
+* False.
+
+3. Prior Variable Analysis and Principal Component Analysis are both examples of a data reduction algorithm.
+* False.
+	True.
+
+4. After the data are appropriately processed, transformed, and stored, what is a good starting point for data mining?
+  Machine learning.
+* Data Visualization.
+  Non-parametric methods.
+  Creating a relational database.
+
+5. In-sample forecast is the process of formally evaluating the predictive capabilities of the models developed using observed data to see how effective the algorithms are in reproducing data.
+* True.
+  False.
