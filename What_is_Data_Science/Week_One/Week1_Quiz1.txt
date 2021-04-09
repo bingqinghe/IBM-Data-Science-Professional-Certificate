@@ -18,6 +18,7 @@ Data Science: The Sexiest Job in the 21st Century
 * $112,000
   $16 per hour
   $85,000 + Bonus
+  
 5. According to professor Haider, the three important qualities to possess in order to succeed as a data scientist are:
   Proficient in Programming.
 * Good Story Teller (Argumentative).
