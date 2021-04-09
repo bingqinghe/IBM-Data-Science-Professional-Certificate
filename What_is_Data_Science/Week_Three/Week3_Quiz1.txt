@@ -1,1 +1,23 @@
-The Final Deliverable1. The ultimate purpose of analytics is to communicate findings to stakeholders to formulate policy or strategy.False.* True.2. The reading mentions a common role of a data scientist is to use analytics insights to build a narrative to communicate findings to stakeholders..* False.	True.3. The United States Economic Forecast is a publication by:McKinsey Publication Inc.McGraw-Hill Education.* Deloitte University PressCambridge University Press.4. The report discussed in the reading successfully did the job of using data and analytics to generate the likely economic scenarios.* True.False.5. According to the reading, in order to produce a compelling narrative, initial planning and conceptualizing of the final deliverable is of extreme importance.* True.False.
+The Final Deliverable
+
+1. The ultimate purpose of analytics is to communicate findings to stakeholders to formulate policy or strategy.
+  False.
+* True.
+
+2. The reading mentions a common role of a data scientist is to use analytics insights to build a narrative to communicate findings to stakeholders..
+* False.
+  True.
+
+3. The United States Economic Forecast is a publication by:
+  McKinsey Publication Inc.
+  McGraw-Hill Education.
+* Deloitte University Press
+  Cambridge University Press.
+
+4. The report discussed in the reading successfully did the job of using data and analytics to generate the likely economic scenarios.
+* True.
+  False.
+
+5. According to the reading, in order to produce a compelling narrative, initial planning and conceptualizing of the final deliverable is of extreme importance.
+* True.
+  False.
