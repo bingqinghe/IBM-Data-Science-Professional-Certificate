@@ -1,1 +1,51 @@
-Graded Quiz1. Which are the two most used open source tools for data science?Notepad* RStudio* Jupyter Notebooks / JupyterLabSpyderVSCode2. What tool do most R developers use?* RStudioJupyter Notebooks / JupyterLab3. What tool do most Python developers use?RStudio* Jupyter Notebooks / JupyterLab4. True or false? Jupyter Notebooks / JupyterLab support development in R.* TrueFalse5. Which tool unifies documentation, source code and data visualizations into a single document?NotepadVSCode* Jupyter Notebooks / JupyterLab6. Which command is used to install packages in R?install.package("package name")* install.packages("package name")install("package name")package("package name")7. Which of the following functions does RStudio provide?Documenting R code applications.Creating relationships between data tables.* Editing and execution of R code.Storing data in tables.8. True or False: The Jupyter Notebook kernel must be installed on a local server.True* False9. Which of the following statements about Jupyter Notebook is correct?* Jupyter Notebook supports the Visualization of data in charts.Jupyter Notebook is a commercial product of IBM.Jupyter Notebook is only available if installed locally on your computer.Jupyter Notebook provides storage of massive quantities of data in data lakes.10. True or false? RStudio supports development in Python.* TrueFalse
+Graded Quiz
+
+1. Which are the two most used open source tools for data science?
+  Notepad
+* RStudio
+* Jupyter Notebooks / JupyterLab
+  Spyder
+  VSCode
+
+2. What tool do most R developers use?
+* RStudio
+  Jupyter Notebooks / JupyterLab
+
+3. What tool do most Python developers use?
+  RStudio
+* Jupyter Notebooks / JupyterLab
+
+4. True or false? Jupyter Notebooks / JupyterLab support development in R.
+* True
+  False
+
+5. Which tool unifies documentation, source code and data visualizations into a single document?
+  Notepad
+  VSCode
+* Jupyter Notebooks / JupyterLab
+
+6. Which command is used to install packages in R?
+  install.package("package name")
+* install.packages("package name")
+  install("package name")
+  package("package name")
+
+7. Which of the following functions does RStudio provide?
+  Documenting R code applications.
+  Creating relationships between data tables.
+* Editing and execution of R code.
+  Storing data in tables.
+
+8. True or False: The Jupyter Notebook kernel must be installed on a local server.
+  True
+* False
+
+9. Which of the following statements about Jupyter Notebook is correct?
+* Jupyter Notebook supports the Visualization of data in charts.
+  Jupyter Notebook is a commercial product of IBM.
+  Jupyter Notebook is only available if installed locally on your computer.
+  Jupyter Notebook provides storage of massive quantities of data in data lakes.
+
+10. True or false? RStudio supports development in Python.
+* True
+ False
