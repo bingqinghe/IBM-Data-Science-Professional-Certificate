@@ -1,0 +1,23 @@
+From Problem to Approach
+
+1. A methodology is an application for a computer program.
+  True
+* False
+
+2. The first stage of the data science methodology is Data Understanding.
+  True
+* False
+
+3. Business Understanding is the least important stage in the data science methodology because none of the other stages depend on it.
+  True
+* False
+
+4. Which of the following statements about the analytic approach are correct?
+  If the question defined in the business understanding deals with exploring relationships between different factors, then a predictive model would be the right analytic approach.
+* If the question defined in the business understanding deals with exploring relationships between different factors, then a descriptive approach, where clusters of similar activities based on events and preferences are examined, would be the right analytic method.
+  If the question defined in the business understanding deals with exploring relationships between different factors, then a classification approach would be the right analytic method.
+* If the question defined in the business understanding stage can be answered by determining probabilities of an action, then a predictive model would be the right analytic approach.
+
+5. The first stage of the data science methodology is Data Understanding.
+* True
+  False
