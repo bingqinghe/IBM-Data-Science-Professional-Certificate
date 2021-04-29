@@ -1,1 +1,52 @@
-From Requirements to Collection1. Which of the following analogies is used in the videos to explain the Data Requirements and Data Collection stages of the data science methodology?* You can think of the Data Requirements and Data Collection stages as a cooking task, where the problem at hand is a recipe, and the data to answer the question is the ingredients.  You can think of the Data Requirements and Data Collection stages as building an outpatient clinic for patients with congestive heart failure, where the medical condition is the data and the patients are the ingredients.  2. The Data Requirements stage of the data science methodology involves identifying the necessary data content, formats and sources for initial data collection.* True  False3. Database Administrators determine how to collect and prepare the data.  True* False4. In the Data Collection stage, the data requirements are revised and decisions are made as to whether or not more data is needed.* True  False5. In the Data Collection stage, techniques such as descriptive statistics and visualization can be applied to the data set, to assess the content, quality, and initial insights about the data* True  False
+From Deployment to Feedback
+
+1. The final stages of the data science methodology are an iterative cycle between Modelling, Evaluation, Deployment, and Feedback.
+* True
+  False
+
+2. Feedback is not required once the model is deployed because the Model Evaluation stage would have assessed the model and made sure that it performed well.
+  True
+* False
+
+3. Deploying a model into production represents the end of the iterative process that includes Feedback, Model Refinement, and Redeployment.
+  True.
+* False
+
+4. The data science methodology is a specific strategy that guides processes and activities relating to data science only for text analytics.
+* False.
+  True.
+
+5. A data scientist determines that building a recommender system is the solution for a particular business problem at hand. What stage of the data science methodology does this represent?
+* Analytic Approach.
+  Model Evaluation.
+  Deployment.
+  Modeling.
+
+6. A car company asked a data scientist to determine what type of customers are more likely to purchase their vehicles. However, the data comes from several sources and is in a relatively “raw format”. What kind of processing can the data scientist perform on the data to prepare it for the Modeling stage?
+A. Feature Engineering.
+B. Transforming the data into more useful variables.
+C. Combining the data from the various sources.
+D. Addressing missing invalid values.
+
+  Only options A and D are correct.
+  Only option C is correct.
+  None of the options are correct.
+* All of the options are correct.
+
+7. Data scientists typically use descriptive statistics and data visualization techniques for exploratory analysis of data and to get acquainted with it.
+* True.
+  False.
+
+8. Data scientists may frequently return to a previous stage to make adjustments, as they learn more about the data and the modeling.
+* True.
+  False.
+
+9. For predictive models, a test set, which is similar to – but independent of – the training set, is used to determine how well the model predicts outcomes. This is an example of what step in the methodology?
+  Data Requirements.
+  Deployment.
+* Model Evaluation.
+  Analytic Approach.
+
+10. Data scientists should maintain continuous communication with stakeholders throughout a project so that business stakeholders can ensure the work remains on track to generate the intended solution.
+* True.
+  False.
