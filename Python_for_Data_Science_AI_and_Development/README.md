@@ -9,6 +9,7 @@ This course can be applied to multiple Specialization or Professional Certificat
 - IBM Applied AI Professional Certificate 
 - Applied Data Science Specialization 
 - IBM Data Science Professional Certificate 
+
 Upon completion of any of the above programs, in addition to earning a Specialization completion certificate from Coursera, you’ll also receive a digital badge from IBM recognizing your expertise in the field.
 
 ## Week One: Python Basics
