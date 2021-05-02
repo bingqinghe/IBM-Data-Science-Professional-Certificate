@@ -1,1 +1,38 @@
-Practice Quiz1. what is the result of the following: 1=2* SyntaxError:can't assign to literal  True  False 2. What is the output of the following code segment:    i=6    i<5  True* False  SyntaxError: can't assign to literal3. What is the result of the following: 5!=5* False  True4. What is the output of the following code segment: 'a'=='A'* False  True5. in the video, if age=18 what would be the result * move on  you can enter 6. in the video what would be the result if we set the variable age as follows: age= -10* go see Meat Loaf  move on  you can enter  move on7. what is the result of the following: True or False * True, an or statement is only False if all the Boolean values are False  False
+Practice Quiz
+
+1. what is the result of the following: 1=2
+* SyntaxError:can't assign to literal
+  True
+  False 
+
+2. What is the output of the following code segment:
+    
+        i=6
+        i<5
+
+  True
+* False
+  SyntaxError: can't assign to literal
+
+3. What is the result of the following: 5!=5
+* False
+  True
+
+4. What is the output of the following code segment: 'a'=='A'
+* False
+  True
+
+5. in the video, if age=18 what would be the result 
+* move on
+  you can enter 
+
+6. in the video what would be the result if we set the variable age as follows: age= -10
+* go see Meat Loaf
+  move on
+
+  you can enter
+  move on
+
+7. what is the result of the following: True or False 
+* True, an or statement is only False if all the Boolean values are False
+  False
