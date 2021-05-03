@@ -1,1 +1,13 @@
-Practice Quiz1. Why do we use exception handlers?  Write a file  Terminate a program  Read a file* Catch errors within a program2. What is the purpose of a tryÿexcept statement?  Executes the code block only if a certain condition exists* Catch and handle exceptions when an error occurs  Crash a program when errors occur  Only executes if one condition is true
+Practice Quiz
+
+1. Why do we use exception handlers?
+  Write a file
+  Terminate a program
+  Read a file
+* Catch errors within a program
+
+2. What is the purpose of a try...except statement?
+  Executes the code block only if a certain condition exists
+* Catch and handle exceptions when an error occurs
+  Crash a program when errors occur
+  Only executes if one condition is true
