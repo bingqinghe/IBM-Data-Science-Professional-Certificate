@@ -1,6 +1,6 @@
 Graded Quiz: Exception Handling
 
-1. Why is the ¡°finally¡± statement used?
+1. Why is the 'finally' statement used?
   Only execute the remaining code if an error occurs
   Only execute the remaining code if one condition is false
   Only execute the remaining code if no errors occur
