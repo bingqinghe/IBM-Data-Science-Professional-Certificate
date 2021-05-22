@@ -11,13 +11,23 @@ With the tools hosted in the cloud on Skills Network Labs, you will be able to t
 To end the course, you will create a final project with a Jupyter Notebook on IBM Watson Studio and demonstrate your proficiency preparing a notebook, writing Markdown, and sharing your work with your peers.
 
 ## Week One: Data Scientist's Toolkit
-This week, you will get an overview of the programming languages commonly used, including Python, R, Scala, and SQL. You’ll be introduced to the open source and commercial data science tools available. You’ll also learn about the packages, APIs, data sets and models frequently used by data scientists.
+This week, you will get an overview of the programming languages commonly used, including Python, R, Scala, and SQL. 
+
+You’ll be introduced to the open source and commercial data science tools available. 
+
+You’ll also learn about the packages, APIs, data sets and models frequently used by data scientists.
 
 ## Week Two: Open Source Tools
-This week, you will learn about three popular tools used in data science: GitHub, Jupyter Notebooks, and RStudio IDE. You will become familiar with the features of each tool, and what makes these tools so popular among data scientists today.
+This week, you will learn about three popular tools used in data science: GitHub, Jupyter Notebooks, and RStudio IDE. 
+
+You will become familiar with the features of each tool, and what makes these tools so popular among data scientists today.
 
 ## Week Three: IBM Tools for Data Science 
-This week, you will learn about an enterprise-ready data science platform by IBM, called Watson Studio. You'll learn about some of the features and capabilities of what data scientists use in the industry. You’ll also learn about other IBM tools used to support data science projects, such as IBM Watson Knowledge Catalog, Data Refinery, and the SPSS Modeler.
+This week, you will learn about an enterprise-ready data science platform by IBM, called Watson Studio. 
+
+You'll learn about some of the features and capabilities of what data scientists use in the industry. 
+
+You’ll also learn about other IBM tools used to support data science projects, such as IBM Watson Knowledge Catalog, Data Refinery, and the SPSS Modeler.
 
 ## Week Four: Final Assignment: Create and Share Your Jupyter Notebook
 This week, you will demonstrate your skills by creating and configuring a Jupyter Notebook. As part of your grade for this course, you will share your Jupyter Notebook with your peers for review.
