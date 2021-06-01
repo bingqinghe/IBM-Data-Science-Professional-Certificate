@@ -1,1 +1,51 @@
-Specialized Visualization Tools1. What do the letters in the box plot above represent?* A = Median, B = Third Quartile, C = First Quartile, D = Inter Quartile Range, E = Minimum, and F = Outliers  A = Mean, B = Third Quartile, C = First Quartile, D = Inter Quartile Range, E = Minimum, and F = Maximum  A = Mean, B = Third Quartile, C = First Quartile, D = Inter Quartile Range, E = Minimum, and F = Outliers  A = Mean, B = Upper Mean Quartile, C = Lower Mean Quartile, D = Inter Quartile Range, E = Minimum, and F = Outliers  A = Median, B = Third Quartile, C = Mean, D = Inter Quartile Range, E = Lower Quartile, and F = Outliers  2. What is the correct combination of function and parameter to create a box plot in Matplotlib?  Function = plot, and Parameter = type with value = "box"   Function = plot, and Parameter = kind with value = "boxplot"   Function = boxplot, and Parameter = type with value = "plot"  Function = box, and Parameter = type with value = "plot"   Function = plot, and Parameter = kind with value = "box"  3. Which of the lines of code below will create the following scatter plot, given the pandas dataframe, df_total?*       import matplotlib.pyplot as plt        df_total.plot(kind='scatter', x='year', y='total')        plt.title('Total Immigrant population to Canada from 1980 - 2013')        plt.xlabel ('Year')        plt.ylabel('Number of Immigrants')                        import matplotlib.pyplot as plt        plot(kind='scatter', x='year', y='total', data=df_total)        plt.title('Total Immigrant population to Canada from 1980 - 2013')        plt.label ('Year')        plt.label('Number of Immigrants')                        import matplotlib.scripting.pyplot as plt        df_total.plot(kind='scatter', x='year', y='total')        plt.title('Total Immigrant population to Canada from 1980 - 2013')        plt.label('Year')        plt.label('Number of Immigrants')                        import matplotlib.scripting.pyplot as plt        df_total.plot(type='scatter', y='year', x='total')        plt.title('Total Immigrant population to Canada from 1980 - 2013')        plt.xlabel ('Year')        plt.ylabel('Number of Immigrants')                        import matplotlib.pyplot as plt        df_total.plot(type='scatter', x='year', y='total')        plt.title('Total Immigrant population to Canada from 1980 - 2013')        plt.label ('Year')        plt.label('Number of Immigrants')
+Specialized Visualization Tools
+
+1. What do the letters in the box plot above represent?
+* A = Median, B = Third Quartile, C = First Quartile, D = Inter Quartile Range, E = Minimum, and F = Outliers
+  A = Mean, B = Third Quartile, C = First Quartile, D = Inter Quartile Range, E = Minimum, and F = Maximum
+  A = Mean, B = Third Quartile, C = First Quartile, D = Inter Quartile Range, E = Minimum, and F = Outliers
+  A = Mean, B = Upper Mean Quartile, C = Lower Mean Quartile, D = Inter Quartile Range, E = Minimum, and F = Outliers
+  A = Median, B = Third Quartile, C = Mean, D = Inter Quartile Range, E = Lower Quartile, and F = Outliers
+  
+2. What is the correct combination of function and parameter to create a box plot in Matplotlib?
+  Function = plot, and Parameter = type with value = "box" 
+  Function = plot, and Parameter = kind with value = "boxplot" 
+  Function = boxplot, and Parameter = type with value = "plot"
+  Function = box, and Parameter = type with value = "plot" 
+* Function = plot, and Parameter = kind with value = "box"
+  
+3. Which of the lines of code below will create the following scatter plot, given the pandas dataframe, df_total?
+
+*       import matplotlib.pyplot as plt
+        df_total.plot(kind='scatter', x='year', y='total')
+        plt.title('Total Immigrant population to Canada from 1980 - 2013')
+        plt.xlabel ('Year')
+        plt.ylabel('Number of Immigrants')
+        
+        
+        import matplotlib.pyplot as plt
+        plot(kind='scatter', x='year', y='total', data=df_total)
+        plt.title('Total Immigrant population to Canada from 1980 - 2013')
+        plt.label ('Year')
+        plt.label('Number of Immigrants')
+        
+        
+        import matplotlib.scripting.pyplot as plt
+        df_total.plot(kind='scatter', x='year', y='total')
+        plt.title('Total Immigrant population to Canada from 1980 - 2013')
+        plt.label('Year')
+        plt.label('Number of Immigrants')
+        
+        
+        import matplotlib.scripting.pyplot as plt
+        df_total.plot(type='scatter', y='year', x='total')
+        plt.title('Total Immigrant population to Canada from 1980 - 2013')
+        plt.xlabel ('Year')
+        plt.ylabel('Number of Immigrants')
+        
+        
+        import matplotlib.pyplot as plt
+        df_total.plot(type='scatter', x='year', y='total')
+        plt.title('Total Immigrant population to Canada from 1980 - 2013')
+        plt.label ('Year')
+        plt.label('Number of Immigrants')
