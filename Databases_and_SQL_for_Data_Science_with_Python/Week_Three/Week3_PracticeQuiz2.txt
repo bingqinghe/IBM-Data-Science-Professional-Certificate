@@ -1,1 +1,34 @@
-Practice Quiz1. Which of the following statements about built-in database functions is correct?* Built-in database functions reduce the amount of data that is retrieved.  Built-in database functions may increase network bandwidth consumed.  Built-in database functions must be called from a programming language like Python.  Built-in database functions may increase processing time.2. Which of the following SQL queries would return the day of the week each dog was rescued?* SELECT DAYOFWEEK(RescueDate) From PetRescue WHERE Animal = ¡®Dog¡¯;  SELECT DAYOFWEEK(RescueDate) From PetRescue;   SELECT DAY(RescueDate) From PetRescue WHERE Animal = ¡®Dog¡¯;  SELECT RescueDate From PetRescue WHERE Animal = ¡®Dog¡¯;3. What is the result of the following query:         SELECT (Current_Date ? RescueDate) FROM PetRescue  Returns today¡¯s date.  Returns the rescue date for each rescue.  Returns the current date and rescue date columns.* Returns how long it has been since each rescue.4. Which of the following queries will return the employees who earn less than the average salary?  SELECT AVG(Salary) FROM Employees WHERE Salary < AVG(Salary)   SELECT * FROM Employees WHERE Salary < AVG(Salary)   SELECT * FROM Employees WHERE Salary < (SELECT AVG(Salary))* SELECT * FROM Employees WHERE Salary < (SELECT AVG(Salary) FROM Employees);5. What are the three ways to work with multiple tables in the same query?* Sub-queries, Implicit joins, JOIN operators  Sub-queries, APPEND, JOIN operators  Built-in functions, implicit joins, JOIN operators  Sub-queries, Implicit joins, normalization.
+Practice Quiz
+
+1. Which of the following statements about built-in database functions is correct?
+* Built-in database functions reduce the amount of data that is retrieved.
+  Built-in database functions may increase network bandwidth consumed.
+  Built-in database functions must be called from a programming language like Python.
+  Built-in database functions may increase processing time.
+
+2. Which of the following SQL queries would return the day of the week each dog was rescued?
+* SELECT DAYOFWEEK(RescueDate) From PetRescue WHERE Animal = 'Dog';
+  SELECT DAYOFWEEK(RescueDate) From PetRescue; 
+  SELECT DAY(RescueDate) From PetRescue WHERE Animal = 'Dog';
+  SELECT RescueDate From PetRescue WHERE Animal = 'Dog';
+
+3. What is the result of the following query: 
+
+        SELECT (Current_Date ? RescueDate) FROM PetRescue
+
+  Returns today's date.
+  Returns the rescue date for each rescue.
+  Returns the current date and rescue date columns.
+* Returns how long it has been since each rescue.
+
+4. Which of the following queries will return the employees who earn less than the average salary?
+  SELECT AVG(Salary) FROM Employees WHERE Salary < AVG(Salary) 
+  SELECT * FROM Employees WHERE Salary < AVG(Salary) 
+  SELECT * FROM Employees WHERE Salary < (SELECT AVG(Salary))
+* SELECT * FROM Employees WHERE Salary < (SELECT AVG(Salary) FROM Employees);
+
+5. What are the three ways to work with multiple tables in the same query?
+* Sub-queries, Implicit joins, JOIN operators
+  Sub-queries, APPEND, JOIN operators
+  Built-in functions, implicit joins, JOIN operators
+  Sub-queries, Implicit joins, normalization.
