@@ -1,1 +1,80 @@
-Final Exam1. The SELECT statement is called a query, and the output we get from executing the query is called what?  The index  The table* A results set  The database2. Which of the following SQL statements will delete the customers where the Country is Italy?        DELETE COUNTRY ¡®ITALY¡¯ FROM CUSTOMERS*       DELETE FROM CUSTOMERS WHERE COUNTRY = ¡®ITALY¡¯        DELETE FROM CUSTOMERS WHERE COUNTRY IS ¡®ITALY¡¯        DELETE ¡®ITALY¡¯ FROM CUSTOMERS3. What does the primary key of a relational table do?  The primary key uniquely identifies each column in a table.  The primary key uniquely identifies each relation in a table.* The primary key uniquely identifies each row in a table.  The primary key uniquely identifies each attribute in a table.4. The basic categories of the SQL language based on functionality are Data Definition Language (DDL) and _________.  Data Update Language (DUL)* Data Manipulation Language (DML)  Data Entry Language (DEL)  Data Input Language (DIL)5. When querying a table called Author that contains a list of authors and their country of residence, which of the following queries will return the number of authors from each country?*       SELECT Country, count(Country) FROM Author GROUP BY Country        SELECT Distinct(Country) FROM Author         SELECT Country, count(Country) FROM Author        SELECT Country, distinct(Country) FROM Author GROUP BY Country6. You want to retrieve a list of employees by first name and last name for a company that are between the ages of 30 and 50. Which clause would you add to the following SQL statement:        SELECT First_Name,Last_Name, Age FROM Company  IF Age >=30 AND Age <=50  WHERE Age > 30  WHERE Age < 30* WHERE Age >=30 AND Age <=507. Which of the following queries will retrieve the HIGHEST value of PRICE in a table called PRODUCTS?        SELECT MOST(PRICE) FROM PRODUCTS        SELECT MIN(PRICE) FROM PRODUCTS*       SELECT MAX(PRICE) FROM PRODUCTS        SELECT HIGHEST(PRICE) FROM PRODUCTS8. Which of the following queries will retrieve the last name of the employee who earns the lowest salary?*       SELECT LAST_NAME FROM EMPLOYEES WHERE SALARY =(SELECT MIN(SALARY) FROM EMPLOYEES)        SELECT MIN(SALARY) FROM EMPLOYEES        SELECT LAST_NAME, MIN(SALARY) FROM EMPLOYEES GROUP BY F_NAME        SELECT FIRST_NAME FROM EMPLOYEES WHERE SALARY IS LOWEST9. A database cursor is a control structure that;* Enables traversal over the records in a database  Does not allow you to update records within a database  Does not allow communication with a database  Does not allow you to create tables10. To query data from tables in database a connection to the database needs to be established. Which of the following is required to establish a connection with a relational database from a Python notebook?  Column names * Database name  Table Name  Row names
+Final Exam
+
+1. The SELECT statement is called a query, and the output we get from executing the query is called what?
+  The index
+  The table
+* A results set
+  The database
+
+2. Which of the following SQL statements will delete the customers where the Country is Italy?
+
+  DELETE COUNTRY 'ITALY' FROM CUSTOMERS
+
+* DELETE FROM CUSTOMERS WHERE COUNTRY = 'ITALY'
+
+  DELETE FROM CUSTOMERS WHERE COUNTRY IS 'ITALY'
+
+  DELETE 'ITALY' FROM CUSTOMERS
+
+3. What does the primary key of a relational table do?
+  The primary key uniquely identifies each column in a table.
+  The primary key uniquely identifies each relation in a table.
+* The primary key uniquely identifies each row in a table.
+  The primary key uniquely identifies each attribute in a table.
+
+4. The basic categories of the SQL language based on functionality are Data Definition Language (DDL) and _________.
+  Data Update Language (DUL)
+* Data Manipulation Language (DML)
+  Data Entry Language (DEL)
+  Data Input Language (DIL)
+
+5. When querying a table called Author that contains a list of authors and their country of residence, which of the following queries will return the number of authors from each country?
+
+* SELECT Country, count(Country) FROM Author GROUP BY Country
+
+  SELECT Distinct(Country) FROM Author 
+
+  SELECT Country, count(Country) FROM Author
+
+  SELECT Country, distinct(Country) FROM Author GROUP BY Country
+
+6. You want to retrieve a list of employees by first name and last name for a company that are between the ages of 30 and 50. Which clause would you add to the following SQL statement:
+
+        SELECT First_Name,Last_Name, Age FROM Company
+
+  IF Age >=30 AND Age <=50
+  WHERE Age > 30
+  WHERE Age < 30
+* WHERE Age >=30 AND Age <=50
+
+7. Which of the following queries will retrieve the HIGHEST value of PRICE in a table called PRODUCTS?
+
+  SELECT MOST(PRICE) FROM PRODUCTS
+
+  SELECT MIN(PRICE) FROM PRODUCTS
+
+* SELECT MAX(PRICE) FROM PRODUCTS
+
+  SELECT HIGHEST(PRICE) FROM PRODUCTS
+
+8. Which of the following queries will retrieve the last name of the employee who earns the lowest salary?
+
+* SELECT LAST_NAME FROM EMPLOYEES WHERE SALARY = (SELECT MIN(SALARY) FROM EMPLOYEES)
+
+  SELECT MIN(SALARY) FROM EMPLOYEES
+
+  SELECT LAST_NAME, MIN(SALARY) FROM EMPLOYEES GROUP BY F_NAME
+
+  SELECT FIRST_NAME FROM EMPLOYEES WHERE SALARY IS LOWEST
+
+9. A database cursor is a control structure that;
+* Enables traversal over the records in a database
+  Does not allow you to update records within a database
+  Does not allow communication with a database
+  Does not allow you to create tables
+
+10. To query data from tables in database a connection to the database needs to be established. Which of the following is required to establish a connection with a relational database from a Python notebook?
+  Column names 
+* Database name
+  Table Name
+  Row names
