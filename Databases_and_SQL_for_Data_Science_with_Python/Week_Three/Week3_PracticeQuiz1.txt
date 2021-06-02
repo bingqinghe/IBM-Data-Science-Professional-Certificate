@@ -18,7 +18,6 @@ Practice Quiz
   SELECT * FROM Author WHERE Country BETWEEN ('Australia', 'Canada', 'India');
 * SELECT * FROM Author WHERE Country IN ('Australia', 'Canada', 'India');
 
-
 4. You want to retrieve a list of books priced above $10 and below $25 from the table Book. What are the two ways you can specify the range?
 * SELECT Title, Price FROM Book WHERE Price BETWEEN 10 and 25;
   SELECT Title, Price FROM Book WHERE Price IN (10, 25);
