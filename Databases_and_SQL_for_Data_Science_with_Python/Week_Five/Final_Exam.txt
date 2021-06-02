@@ -7,13 +7,9 @@ Final Exam
   The database
 
 2. Which of the following SQL statements will delete the customers where the Country is Italy?
-
   DELETE COUNTRY 'ITALY' FROM CUSTOMERS
-
 * DELETE FROM CUSTOMERS WHERE COUNTRY = 'ITALY'
-
   DELETE FROM CUSTOMERS WHERE COUNTRY IS 'ITALY'
-
   DELETE 'ITALY' FROM CUSTOMERS
 
 3. What does the primary key of a relational table do?
@@ -29,13 +25,9 @@ Final Exam
   Data Input Language (DIL)
 
 5. When querying a table called Author that contains a list of authors and their country of residence, which of the following queries will return the number of authors from each country?
-
 * SELECT Country, count(Country) FROM Author GROUP BY Country
-
   SELECT Distinct(Country) FROM Author 
-
   SELECT Country, count(Country) FROM Author
-
   SELECT Country, distinct(Country) FROM Author GROUP BY Country
 
 6. You want to retrieve a list of employees by first name and last name for a company that are between the ages of 30 and 50. Which clause would you add to the following SQL statement:
@@ -48,23 +40,15 @@ Final Exam
 * WHERE Age >=30 AND Age <=50
 
 7. Which of the following queries will retrieve the HIGHEST value of PRICE in a table called PRODUCTS?
-
   SELECT MOST(PRICE) FROM PRODUCTS
-
   SELECT MIN(PRICE) FROM PRODUCTS
-
 * SELECT MAX(PRICE) FROM PRODUCTS
-
   SELECT HIGHEST(PRICE) FROM PRODUCTS
 
 8. Which of the following queries will retrieve the last name of the employee who earns the lowest salary?
-
 * SELECT LAST_NAME FROM EMPLOYEES WHERE SALARY = (SELECT MIN(SALARY) FROM EMPLOYEES)
-
   SELECT MIN(SALARY) FROM EMPLOYEES
-
   SELECT LAST_NAME, MIN(SALARY) FROM EMPLOYEES GROUP BY F_NAME
-
   SELECT FIRST_NAME FROM EMPLOYEES WHERE SALARY IS LOWEST
 
 9. A database cursor is a control structure that;
