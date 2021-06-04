@@ -1,1 +1,29 @@
-Practice Quiz1. What is the function of a primary key?  The primary key is used to grant access to a table.  The primary key is used to identify any rows in the table that contain NULL values.  The primary key enables you to add data to columns.* The primary key uniquely identifies each row in a table.2. True or False: Data Manipulation Language statements like INSERT, SELECT, UPDATE, and DELETE are used to read and modify data.* True  False3. Data Definition Language (or DDL) statements are used to define, change, or delete database objects such as tables. Which of the following statements are all DDL statements?   INSERT and UPDATE  SELECT and DELETE* CREATE, ALTER, DROP  SELECT, INSERT, UPDATE4. Which of the following queries will change the data type of an existing column (phone) to the varchar data type?  ALTER TABLE author ALTER COLUMN phone SET TYPE VARCHAR(20);  ALTER COLUMN phone SET DATA TYPE VARCHAR(20);  ALTER TABLE author ALTER COLUMN phone DATA TYPE = VARCHAR(20);* ALTER TABLE author ALTER COLUMN phone SET DATA TYPE VARCHAR(20);5. The five basic SQL commands are:  None of the above  SELECT, COPY, PASTE, INSERT, ALTER  CREATE, INSERT, RETRIEVE, MODIFY, DELETE* CREATE, SELECT, INSERT, UPDATE, DELETE
+Practice Quiz
+
+1. What is the function of a primary key?
+  The primary key is used to grant access to a table.
+  The primary key is used to identify any rows in the table that contain NULL values.
+  The primary key enables you to add data to columns.
+* The primary key uniquely identifies each row in a table.
+
+2. True or False: Data Manipulation Language statements like INSERT, SELECT, UPDATE, and DELETE are used to read and modify data.
+* True
+  False
+
+3. Data Definition Language (or DDL) statements are used to define, change, or delete database objects such as tables. Which of the following statements are all DDL statements? 
+  INSERT and UPDATE
+  SELECT and DELETE
+* CREATE, ALTER, DROP
+  SELECT, INSERT, UPDATE
+
+4. Which of the following queries will change the data type of an existing column (phone) to the varchar data type?
+  ALTER TABLE author ALTER COLUMN phone SET TYPE VARCHAR(20);
+  ALTER COLUMN phone SET DATA TYPE VARCHAR(20);
+  ALTER TABLE author ALTER COLUMN phone DATA TYPE = VARCHAR(20);
+* ALTER TABLE author ALTER COLUMN phone SET DATA TYPE VARCHAR(20);
+
+5. The five basic SQL commands are:
+  None of the above
+  SELECT, COPY, PASTE, INSERT, ALTER
+  CREATE, INSERT, RETRIEVE, MODIFY, DELETE
+* CREATE, SELECT, INSERT, UPDATE, DELETE
