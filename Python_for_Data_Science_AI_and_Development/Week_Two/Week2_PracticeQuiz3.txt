@@ -1,1 +1,18 @@
-Practice Quiz1. Consider the following set: {"A","A"}, what will the result be when the set is created? * {"A"}   {"A","A"}2. What is the result of the following: type(set([1,2,3]))* set  list3. What method do you use to add an element to a set?* add  append  extend4. What is the result of the following operation : {'a','b'} &{'a'}* {'a'}  {'a','b'}
+Practice Quiz
+
+1. Consider the following set: {"A","A"}, what will the result be when the set is created? 
+* {"A"} 
+  {"A","A"}
+
+2. What is the result of the following: type(set([1,2,3]))
+* set
+  list
+
+3. What method do you use to add an element to a set?
+* add
+  append
+  extend
+
+4. What is the result of the following operation : {'a','b'} &{'a'}
+* {'a'}
+  {'a','b'}
