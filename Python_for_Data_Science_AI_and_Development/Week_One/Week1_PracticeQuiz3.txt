@@ -1,1 +1,32 @@
-Practice Quiz1. What is the result of the following: Name[0]* "M"  "n"  "i"2. What is the result of the following: Name[-1]  "M"* "n"  "o"3. What is the output of the following: print("AB\nC\nDE")  ABC  DE* AB  C  DE  AB  CD  E4. What is the result of following?     "hello Mike".find("Mike")     If you are unsure, copy and paste the code into Jupyter Notebook and check.  5* 6  6,7,8
+Practice Quiz
+
+1. What is the result of the following: Name[0]
+* "M"
+  "n"
+  "i"
+
+2. What is the result of the following: Name[-1]
+  "M"
+* "n"
+  "o"
+
+3. What is the output of the following: print("AB\nC\nDE")
+  ABC
+  DE
+
+* AB
+  C
+  DE
+
+  AB
+  CD
+  E
+
+4. What is the result of following? 
+
+        "hello Mike".find("Mike")
+        
+   If you are unsure, copy and paste the code into Jupyter Notebook and check.
+  5
+* 6
+  6,7,8
