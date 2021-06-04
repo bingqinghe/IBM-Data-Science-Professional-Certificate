@@ -1,1 +1,36 @@
-Graded Quiz: Basic SQL1. True or False: The INSERT statement can be used to insert multiple rows in a single statement. * True  False2. Assume there exists an INSTRUCTOR table with several columns including FIRSTNAME, LASTNAME, etc. Which of the following is the most likely result set for the following query:        SELECT DISTINCT(FIRSTNAME) FROM INSTRUCTOR  LEON  LEON  PAUL  PAUL* LEON  PAUL  JOE  LEON  PAUL  LEON  JOE  LEON KATSNELSON  PAUL ZIKOPOLOUS  JOE SANTARCANGELO3. What does the following SQL statement do?        UPDATE INSTRUCTOR SET LASTNAME = 'Brewster' WHERE LASTNAME = 'Smith'* Changes all rows for the instructor with a last name of Smith to have a last name of Brewster.  Change the row for the instructor with a last name of Brewster to have a last name of Smith.  Change all rows in the table to have a last name of Smith.  Change all rows in the table to have a last name of Brewster.
+Graded Quiz: Basic SQL
+
+1. True or False: The INSERT statement can be used to insert multiple rows in a single statement. 
+* True
+  False
+
+2. Assume there exists an INSTRUCTOR table with several columns including FIRSTNAME, LASTNAME, etc. Which of the following is the most likely result set for the following query:
+
+        SELECT DISTINCT(FIRSTNAME) FROM INSTRUCTOR
+
+  LEON
+  LEON
+  PAUL
+  PAUL
+
+* LEON
+  PAUL
+  JOE
+
+  LEON
+  PAUL
+  LEON
+  JOE
+
+  LEON KATSNELSON
+  PAUL ZIKOPOLOUS
+  JOE SANTARCANGELO
+
+3. What does the following SQL statement do?
+
+        UPDATE INSTRUCTOR SET LASTNAME = 'Brewster' WHERE LASTNAME = 'Smith'
+
+* Changes all rows for the instructor with a last name of Smith to have a last name of Brewster.
+  Change the row for the instructor with a last name of Brewster to have a last name of Smith.
+  Change all rows in the table to have a last name of Smith.
+  Change all rows in the table to have a last name of Brewster.
