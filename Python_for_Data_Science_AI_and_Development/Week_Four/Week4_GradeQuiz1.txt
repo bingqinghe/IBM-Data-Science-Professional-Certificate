@@ -1,1 +1,71 @@
-Graded Quiz: Reading and Writing files with Open1. Consider the following text file:  Example1.txt:     This is line 1     This is line 2     This is line 3   What is the output of the following lines of code?        with open("Example1.txt","r") as File1:                 file_stuff=File1.readline ()              print(file_stuff)  This is line 1  This is line 2  This is line 1  This is line 2  This is line 3* This is line 12. Consider the file object:  File1. How would you read the first line of text?  File1.readline ()  File1.readline ()* File1.readline ()  File1.read ()3. What do the following lines of code do?        with open("Example1.txt","r") as file1:          FileContent=file1.readlines()          print(FileContent)  Write to the file ¡°Example1.txt¡±* Read the file "Example1.txt"  Append the file "Example1.txt"4. Consider the following line of code:        with open(example1,"w") as file1:   What mode is the file object in?* write  read  append5. What do the following lines of code do?        with open("Example.txt","a") as writefile:          writefile.write("This is line A\n")          writefile.write("This is line B\n")  Read the file "Example.txt"  Write to the file ¡°Example.txt¡±* Append the file "Example.txt"6. What task do the following lines of code perform?        with open('Example2.txt','r') as readfile:            with open('Example3.txt','w') as writefile:                  for line in readfile:                        writefile.write(line)  Check the mode of the open function for each file object.  Print out the content of Example2.txt.* Copy the text from Example2.txt to Example3.txt.
+Graded Quiz: Reading and Writing files with Open
+
+1. Consider the following text file:  Example1.txt:
+        
+        This is line 1
+        This is line 2
+        This is line 3
+   
+   What is the output of the following lines of code?
+
+        with open("Example1.txt","r") as File1:    
+             file_stuff=File1.readline () 
+             print(file_stuff)
+
+  This is line 1
+  This is line 2
+
+  This is line 1
+  This is line 2
+  This is line 3
+
+* This is line 1
+
+2. Consider the file object:  File1. How would you read the first line of text?
+
+  File1.readline ()
+  File1.readline ()
+
+* File1.readline ()
+
+  File1.read ()
+
+3. What do the following lines of code do?
+
+        with open("Example1.txt","r") as file1:
+          FileContent=file1.readlines()
+          print(FileContent)
+
+  Write to the file Â¡Â°Example1.txtÂ¡Â±
+* Read the file "Example1.txt"
+  Append the file "Example1.txt"
+
+4. Consider the following line of code:
+
+        with open(example1,"w") as file1:
+
+   What mode is the file object in?
+* write
+  read
+  append
+
+5. What do the following lines of code do?
+
+        with open("Example.txt","a") as writefile:
+          writefile.write("This is line A\n")
+          writefile.write("This is line B\n")
+
+  Read the file "Example.txt"
+  Write to the file "Example.txt"
+* Append the file "Example.txt"
+
+6. What task do the following lines of code perform?
+
+        with open('Example2.txt','r') as readfile:
+            with open('Example3.txt','w') as writefile:
+                  for line in readfile:
+                        writefile.write(line)
+
+  Check the mode of the open function for each file object.
+  Print out the content of Example2.txt.
+* Copy the text from Example2.txt to Example3.txt.
