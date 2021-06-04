@@ -1,1 +1,18 @@
-Graded Quiz: Database access from Python1. The ibm_db API provides a variety of useful Python functions for accessing and manipulating data in an IBM data server like Db2. Is this statement True or False?* True  False2. A Dataframe represents a tabular, spreadsheet-like data structure containing an ordered collection of columns, each of which can be a different value type. Indicate whether the following statement is True or False:        A pandas dataframe in Python can be used for storing the result set of a SQL query.* True  False3. Which of the following statement(s) about Python is NOT correct (i.e. False)?  The Python ecosystem is very rich and provides easy to use tools for data science. * Due to its proprietary nature, database access from Python is not available for many databases.  There are libraries and APIs available to access many of the popular databases from Python.   Python is a popular scripting language for connecting and accessing databases.
+Graded Quiz: Database access from Python
+
+1. The ibm_db API provides a variety of useful Python functions for accessing and manipulating data in an IBM data server like Db2. Is this statement True or False?
+* True
+  False
+
+2. A Dataframe represents a tabular, spreadsheet-like data structure containing an ordered collection of columns, each of which can be a different value type. Indicate whether the following statement is True or False:
+
+        A pandas dataframe in Python can be used for storing the result set of a SQL query.
+
+* True
+  False
+
+3. Which of the following statement(s) about Python is NOT correct (i.e. False)?
+  The Python ecosystem is very rich and provides easy to use tools for data science. 
+* Due to its proprietary nature, database access from Python is not available for many databases.
+  There are libraries and APIs available to access many of the popular databases from Python. 
+  Python is a popular scripting language for connecting and accessing databases.
