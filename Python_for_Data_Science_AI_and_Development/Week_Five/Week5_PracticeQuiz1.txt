@@ -1,1 +1,19 @@
-Practice Quiz1. What does API stand for?* Application Programming Interface  Application Process Interface  Automatic Program Interaction  Application Programming Interaction2. The chart used to plot the cryptocurrency data in the lab is a* Candlestick Chart  Point and Figure Chart  Pole Chart  Line Chart3. What information are we trying to find for each day in the lab for the chart?  Open (Min), High (First), Low (Max), Close (Last)  Open (Max), High (First), Low (Last), Close (Min)  Open (Last), High (Max), Low (Min), Close (First)* Open (First), High (Max), Low (Min), Close (Last)
+Practice Quiz
+
+1. What does API stand for?
+* Application Programming Interface
+  Application Process Interface
+  Automatic Program Interaction
+  Application Programming Interaction
+
+2. The chart used to plot the cryptocurrency data in the lab is a
+* Candlestick Chart
+  Point and Figure Chart
+  Pole Chart
+  Line Chart
+
+3. What information are we trying to find for each day in the lab for the chart?
+  Open (Min), High (First), Low (Max), Close (Last)
+  Open (Max), High (First), Low (Last), Close (Min)
+  Open (Last), High (Max), Low (Min), Close (First)
+* Open (First), High (Max), Low (Min), Close (Last)
