@@ -1,1 +1,43 @@
-Practice Quiz1. Consider the following tuple:    say_what=('say',' what', 'you', 'will')    what is the result of the following say_what[-1]  'you'  'say'  ' what'* 'will'2. Consider the following tuple A=(1,2,3,4,5). What is the result of the following: A[1:4]:  (2, 3, 4,5)  (3, 4,5)* (2, 3, 4)3. Consider the following tuple A=(1,2,3,4,5), what is the result of the following: len(A)* 5  4  64. Consider the following list B=[1,2,[3,'a'],[4,'b']], what is the result of the following:B[3][1]  [4,"b"]* "b"  "c"5. What is the result of the following operation?    [1,2,3]+[1,1,1]* [1, 2, 3, 1, 1, 1]  TypeError   [2,3,4]6. What is the length of the list A = [1] after the following operation: A.append([2,3,4,5])* 2  5   67. What is the result of the following: "Hello Mike".split()  ["H"]  ["HelloMike"]* ["Hello","Mike"]
+Practice Quiz
+
+1. Consider the following tuple:
+        
+        say_what=('say',' what', 'you', 'will') 
+   
+   what is the result of the following say_what[-1]
+  
+  'you'
+  'say'
+  ' what'
+* 'will'
+
+2. Consider the following tuple A=(1,2,3,4,5). What is the result of the following: A[1:4]:
+  (2, 3, 4,5)
+  (3, 4,5)
+* (2, 3, 4)
+
+3. Consider the following tuple A=(1,2,3,4,5), what is the result of the following: len(A)
+* 5
+  4
+  6
+
+4. Consider the following list B=[1,2,[3,'a'],[4,'b']], what is the result of the following:B[3][1]
+  [4,"b"]
+* "b"
+  "c"
+
+5. What is the result of the following operation?
+    [1,2,3]+[1,1,1]
+* [1, 2, 3, 1, 1, 1]
+  TypeError 
+  [2,3,4]
+
+6. What is the length of the list A = [1] after the following operation: A.append([2,3,4,5])
+* 2
+  5 
+  6
+
+7. What is the result of the following: "Hello Mike".split()
+  ["H"]
+  ["HelloMike"]
+* ["Hello","Mike"]
