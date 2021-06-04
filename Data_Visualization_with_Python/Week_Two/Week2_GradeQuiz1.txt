@@ -1,1 +1,27 @@
-Basic Visualization Tools1. Area plots are stacked by default.* True  False2. The following code will create a histogram of a pandas series, series_data, and align the bin edges with the horizontal tick marks.        count, bin_edges = np.histogram(series_data)        series_data.plot(kind='hist', xticks = bin_edges)* True.  False.3. The following code will create a horizontal bar chart of the data in a pandas dataframe, question.        question.plot(type='bar', rot=90)  True.* False.4. Given a pandas dataframe, question, which of the following will create a horizontal bar chart of the data in question?  question.plot(type='bar', rot=90)  question.plot(kind='bar', orientation='horizontal')* question.plot(kind='barh')  question.plot(kind='bar')  question.plot(kind='bar', type='horizontal')
+Basic Visualization Tools
+
+1. Area plots are stacked by default.
+* True
+  False
+
+2. The following code will create a histogram of a pandas series, series_data, and align the bin edges with the horizontal tick marks.
+
+        count, bin_edges = np.histogram(series_data)
+        series_data.plot(kind='hist', xticks = bin_edges)
+
+* True.
+  False.
+
+3. The following code will create a horizontal bar chart of the data in a pandas dataframe, question.
+
+        question.plot(type='bar', rot=90)
+
+  True.
+* False.
+
+4. Given a pandas dataframe, question, which of the following will create a horizontal bar chart of the data in question?
+  question.plot(type='bar', rot=90)
+  question.plot(kind='bar', orientation='horizontal')
+* question.plot(kind='barh')
+  question.plot(kind='bar')
+  question.plot(kind='bar', type='horizontal')
