@@ -1,1 +1,26 @@
-From Understanding to Preparation1. The Data Understanding stage refers to the stage of removing redundant data.  True* False  2. In the case study, during the Data Understanding stage, data scientists discovered that not all the congestive heart failure admissions that were expected were being captured. What action did they take to resolve the issue? * The data scientists looped back to the Data Collection stage, adding secondary and tertiary diagnoses, and building a more comprehensive definition of congestive heart failure admission.  The data scientists did not need to do anything. In this case, expectations for the data were incorrect.    The data scientists added the missing data manually.   The data scientists looped back to the Business Understanding stage to redefine the requirements.  3. The Data Preparation stage involves correcting invalid values and addressing outliers.* True  False4. Select the correct statement about what data scientists do during the Data Preparation stage.  During the Data Preparation stage, data scientists define the variables to be used in the model.  During the Data Preparation stage, data scientists determine the timing of events.  During the Data Preparation stage, data scientists aggregate the data and merge them from different sources.  During the Data Preparation stage, data scientists identify missing data.* All of the above statements are correct.5. The Data Preparation stage is a very iterative and complicated stage that cannot be accelerated through automation.  True* False
+From Understanding to Preparation
+
+1. The Data Understanding stage refers to the stage of removing redundant data.
+  True
+* False
+  
+2. In the case study, during the Data Understanding stage, data scientists discovered that not all the congestive heart failure admissions that were expected were being captured. What action did they take to resolve the issue? 
+* The data scientists looped back to the Data Collection stage, adding secondary and tertiary diagnoses, and building a more comprehensive definition of congestive heart failure admission.
+  The data scientists did not need to do anything. In this case, expectations for the data were incorrect.  
+  The data scientists added the missing data manually. 
+  The data scientists looped back to the Business Understanding stage to redefine the requirements.
+  
+3. The Data Preparation stage involves correcting invalid values and addressing outliers.
+* True
+  False
+
+4. Select the correct statement about what data scientists do during the Data Preparation stage.
+  During the Data Preparation stage, data scientists define the variables to be used in the model.
+  During the Data Preparation stage, data scientists determine the timing of events.
+  During the Data Preparation stage, data scientists aggregate the data and merge them from different sources.
+  During the Data Preparation stage, data scientists identify missing data.
+* All of the above statements are correct.
+
+5. The Data Preparation stage is a very iterative and complicated stage that cannot be accelerated through automation.
+  True
+* False
