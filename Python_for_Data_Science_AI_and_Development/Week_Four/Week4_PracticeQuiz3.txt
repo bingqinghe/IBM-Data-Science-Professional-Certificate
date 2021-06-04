@@ -1,1 +1,25 @@
-Practice Quiz1. What is the Python library used for scientific computing and is a basis for Pandas?  Requests* Numpy  Tkinter  datetime2. What attribute is used to retrieve the number of elements in an array?* a.size  a.ndim  a.shape  a.dtype3. How would you change the first element to "10" in this array c:array([100,1,2,3,0])?  c[4]=10  c[2]=10* c[0]=10  c[1]=104. What attribute is used to return the number of dimensions in an array?  a.size  a.dtype  a.shape* a.ndim
+Practice Quiz
+
+1. What is the Python library used for scientific computing and is a basis for Pandas?
+  Requests
+* Numpy
+  Tkinter
+  datetime
+
+2. What attribute is used to retrieve the number of elements in an array?
+* a.size
+  a.ndim
+  a.shape
+  a.dtype
+
+3. How would you change the first element to "10" in this array c:array([100,1,2,3,0])?
+  c[4]=10
+  c[2]=10
+* c[0]=10
+  c[1]=10
+
+4. What attribute is used to return the number of dimensions in an array?
+  a.size
+  a.dtype
+  a.shape
+* a.ndim
