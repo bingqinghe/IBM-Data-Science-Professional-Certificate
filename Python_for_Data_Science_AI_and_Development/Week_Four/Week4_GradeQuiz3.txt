@@ -1,1 +1,59 @@
-Graded Quiz: Numpy in Python1. What is the result of the following lines of code?        a=np.array([0,1,0,1,0])        b=np.array([1,0,1,0,1])        a*b  array([1, 1, 1, 1, 1])  0* array([0, 0, 0, 0, 0])2. What is the result of the following lines of code?        a=np.array([-1,1])        b=np.array([1,1])        np.dot(a,b)   array([0,2])  1* 03. Is the following operation allowed with numpy arrays?        a=np.array([[1,2,3,4], [5,6,7,8]])        a*[1,2,3,4]  no, the two elements must be of equal size * yes, this is an example of broadcasting 4. What is the value of Z after the following code is run?        X=np.array([[1,0],[0,1]])        Y=np.array([[0,1],[1,0]])        Z=X+Y* array([[1,1],[1,1]])  array([[1,0],[0,1]])  array([[0,1],[1,1]])5. What values does the variable out take if the following lines of code are run?        X=np.array([[1,0,1],[2,2,2]])         out=X[0:2,2]        out  array([1,0])* array([1,2])  array([1,1])6. What is the value of Z after the following code is run?        X=np.array([[1,0],[0,1]])        Y=np.array([[2,2],[2,2]])        Z=np.dot(X,Y)* array([[2,2],[2,2]])  array([[2,0],[0,2] ])  array([[3,2],[2,3]])
+Graded Quiz: Numpy in Python
+
+1. What is the result of the following lines of code?
+
+        a=np.array([0,1,0,1,0])
+        b=np.array([1,0,1,0,1])
+        a*b
+
+  array([1, 1, 1, 1, 1])
+  0
+* array([0, 0, 0, 0, 0])
+
+2. What is the result of the following lines of code?
+
+        a=np.array([-1,1])
+        b=np.array([1,1])
+        np.dot(a,b) 
+
+  array([0,2])
+  1
+* 0
+
+3. Is the following operation allowed with numpy arrays?
+
+        a=np.array([[1,2,3,4], [5,6,7,8]])
+        a*[1,2,3,4]
+
+  no, the two elements must be of equal size 
+* yes, this is an example of broadcasting 
+
+4. What is the value of Z after the following code is run?
+
+        X=np.array([[1,0],[0,1]])
+        Y=np.array([[0,1],[1,0]])
+        Z=X+Y
+
+* array([[1,1],[1,1]])
+  array([[1,0],[0,1]])
+  array([[0,1],[1,1]])
+
+5. What values does the variable out take if the following lines of code are run?
+
+        X=np.array([[1,0,1],[2,2,2]]) 
+        out=X[0:2,2]
+        out
+
+  array([1,0])
+* array([1,2])
+  array([1,1])
+
+6. What is the value of Z after the following code is run?
+
+        X=np.array([[1,0],[0,1]])
+        Y=np.array([[2,2],[2,2]])
+        Z=np.dot(X,Y)
+
+* array([[2,2],[2,2]])
+  array([[2,0],[0,2] ])
+  array([[3,2],[2,3]])
