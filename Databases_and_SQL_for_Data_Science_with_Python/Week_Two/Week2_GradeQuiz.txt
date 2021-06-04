@@ -1,1 +1,18 @@
-Graded Quiz: Relational DB Concepts and Tables1. Which of the following statements about a database is/are correct?* A database is a logically coherent collection of data with some inherent meaning  Data can only be added and queried from a database, but not modified.  Only SQL can be used to query data in a database.  All of the above2. Attributes of an entity become ________ in a table.  rows* columns  constraints  keys3. The CREATE TABLE statement is a....  DML statement* DDL statement  Both of the above
+Graded Quiz: Relational DB Concepts and Tables
+
+1. Which of the following statements about a database is/are correct?
+* A database is a logically coherent collection of data with some inherent meaning
+  Data can only be added and queried from a database, but not modified.
+  Only SQL can be used to query data in a database.
+  All of the above
+
+2. Attributes of an entity become ________ in a table.
+  rows
+* columns
+  constraints
+  keys
+
+3. The CREATE TABLE statement is a....
+  DML statement
+* DDL statement
+  Both of the above
