@@ -1,1 +1,35 @@
-Graded Quiz: Conditions and Branching1. What value of x will produce the output?    Hello    Mike        x=        if(x=="A"):          print('Hello')        else:          print('Hi')* x="A"  x=A  x=12. What is the output of the following code?        x="Go"        if(x=="Go"):          print('Go ')        else:          print('Stop')* Go Mike  Mike  Stop Mike3. What is the result of the following lines of code?        x=1        x>5* False  True
+Graded Quiz: Conditions and Branching
+
+1. What value of x will produce the output?
+    Hello
+    Mike
+
+        x=
+        if(x=="A"):
+          print('Hello')
+        else:
+          print('Hi')
+
+* x="A"
+  x=A
+  x=1
+
+2. What is the output of the following code?
+
+        x="Go"
+        if(x=="Go"):
+          print('Go ')
+        else:
+          print('Stop')
+
+* Go Mike
+  Mike
+  Stop Mike
+
+3. What is the result of the following lines of code?
+
+        x=1
+        x>5
+
+* False
+  True
