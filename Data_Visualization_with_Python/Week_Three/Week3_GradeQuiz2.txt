@@ -1,1 +1,16 @@
-Graded Quiz: Visualizing Geospatial Data1. You cluster markers, superimposed onto a map in Folium, using a feature group object.* False  True2. If you are interested in generating a map of Spain to visualize its hill shading and natural vegetation, which of the following lines of code will create the right map for you?  (Try and code yourself before answering this question.)  folium.Map(location=[-40.4637, -3.7492], zoom_start=6, tiles='Stamen Toner')  folium.Map(location=[40.4637, 3.7492], zoom_start=6, tiles='Stamen Toner')  folium.Map(location=[40.4637, 3.7492], zoom_start=6)  folium.Map(location=[40.4637, 3.7492], zoom_start=6, tiles='Stamen Terrain')* folium.Map(location=[40.4637, -3.7492], zoom_start=6, tiles='Stamen Terrain')3. A choropleth map is a thematic map in which areas are shaded or patterned in proportion to the measurement of the statistical variable being displayed on the map.* True.  False.
+Graded Quiz: Visualizing Geospatial Data
+
+1. You cluster markers, superimposed onto a map in Folium, using a feature group object.
+* False
+  True
+
+2. If you are interested in generating a map of Spain to visualize its hill shading and natural vegetation, which of the following lines of code will create the right map for you?  (Try and code yourself before answering this question.)
+  folium.Map(location=[-40.4637, -3.7492], zoom_start=6, tiles='Stamen Toner')
+  folium.Map(location=[40.4637, 3.7492], zoom_start=6, tiles='Stamen Toner')
+  folium.Map(location=[40.4637, 3.7492], zoom_start=6)
+  folium.Map(location=[40.4637, 3.7492], zoom_start=6, tiles='Stamen Terrain')
+* folium.Map(location=[40.4637, -3.7492], zoom_start=6, tiles='Stamen Terrain')
+
+3. A choropleth map is a thematic map in which areas are shaded or patterned in proportion to the measurement of the statistical variable being displayed on the map.
+* True.
+  False.
