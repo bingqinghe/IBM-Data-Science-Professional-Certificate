@@ -1,1 +1,20 @@
-Graded Quiz: Simple APIs1. What does REST stand for?* Representational State Transfer  Response Expectation System Transformation  Representational Expectation State Transfer  Response Situation Transfer  Response Expectation Style2. In what data structure do HTTP responses generally return?  Tuples  Lists  Nested Lists* JSON3. The Python library we used to plot the chart in the lab is  Pandas* Plotly  MatPlotLib  PyCoinGecko
+Graded Quiz: Simple APIs
+
+1. What does REST stand for?
+* Representational State Transfer
+  Response Expectation System Transformation
+  Representational Expectation State Transfer
+  Response Situation Transfer
+  Response Expectation Style
+
+2. In what data structure do HTTP responses generally return?
+  Tuples
+  Lists
+  Nested Lists
+* JSON
+
+3. The Python library we used to plot the chart in the lab is
+  Pandas
+* Plotly
+  MatPlotLib
+  PyCoinGecko
