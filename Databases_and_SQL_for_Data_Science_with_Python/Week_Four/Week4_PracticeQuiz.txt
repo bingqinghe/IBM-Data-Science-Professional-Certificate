@@ -1,1 +1,29 @@
-Practice Quiz1. Which API do you use to connect to a database from Python?  REST API  Census API  Watson API* DB API such as ibm_db API2. In the ibm_db API, what is the commit() method used for?  The commit() method is used to reverse any transactions that fail.  The commit() method is used to close a database connection.* The commit() method is used to commit any pending transaction to the database.  The commit() method is used to open a database for connection.3. True or false: Resources used by the ibm_db API are released automatically when the program ends. There is no need to specifically close the connection.  True* False4. To create a table from Python, you would use...  An ibm_db.exec_immediate function that includes connection information.  An ibm_db.exec_immediate function that includes a SQL statement to create the table.  You cannot create a table from Python.* An ibm_db.exec_immediate function that includes connection information and a SQL statement to create the table.5. Which of the following is a correct example of the connect function?  connect('username', 'password')  connect('database port', 'username', 'password')* connect('database name', 'username', 'password')  connect('database name', 'username', 'database type')
+Practice Quiz
+
+1. Which API do you use to connect to a database from Python?
+  REST API
+  Census API
+  Watson API
+* DB API such as ibm_db API
+
+2. In the ibm_db API, what is the commit() method used for?
+  The commit() method is used to reverse any transactions that fail.
+  The commit() method is used to close a database connection.
+* The commit() method is used to commit any pending transaction to the database.
+  The commit() method is used to open a database for connection.
+
+3. True or false: Resources used by the ibm_db API are released automatically when the program ends. There is no need to specifically close the connection.
+  True
+* False
+
+4. To create a table from Python, you would use...
+  An ibm_db.exec_immediate function that includes connection information.
+  An ibm_db.exec_immediate function that includes a SQL statement to create the table.
+  You cannot create a table from Python.
+* An ibm_db.exec_immediate function that includes connection information and a SQL statement to create the table.
+
+5. Which of the following is a correct example of the connect function?
+  connect('username', 'password')
+  connect('database port', 'username', 'password')
+* connect('database name', 'username', 'password')
+  connect('database name', 'username', 'database type')
