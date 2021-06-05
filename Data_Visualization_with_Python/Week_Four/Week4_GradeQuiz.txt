@@ -1,1 +1,21 @@
-Graded Quiz1. Plotly express is a ________ wrapper  Low-level* High-level2. @app_callback is the callback decorator.  True* False3. Choose correct way of adding callback decorator        @app.callback[Output(component_id='bar-plot', component_property='figure¡¯),        Input(component_id='input-yr', component_property='value')]         @app.callback( Output{component_id='bar-plot', component_property='figure¡¯},Input{component_id='input-yr', component_property='value'}) * @app.callback( Output(component_id='bar-plot', component_property='figure¡¯),  Input(component_id='input-yr', component_property='value')) 
+Graded Quiz
+
+1. Plotly express is a ________ wrapper
+  Low-level
+* High-level
+
+2. @app_callback is the callback decorator.
+  True
+* False
+
+3. Choose correct way of adding callback decorator
+
+  @app.callback[Output(component_id='bar-plot', component_property='figure'),
+                Input(component_id='input-yr', component_property='value')] 
+
+  @app.callback(Output{component_id='bar-plot', component_property='figure'},
+                Input{component_id='input-yr', component_property='value'}) 
+
+* @app.callback(Output(component_id='bar-plot', component_property='figure'), 
+                Input(component_id='input-yr', component_property='value')) 
+
