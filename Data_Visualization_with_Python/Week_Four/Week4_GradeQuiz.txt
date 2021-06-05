@@ -18,4 +18,3 @@ Graded Quiz
 
 * @app.callback(Output(component_id='bar-plot', component_property='figure'), 
                 Input(component_id='input-yr', component_property='value')) 
-
