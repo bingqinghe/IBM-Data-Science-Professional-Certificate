@@ -1,1 +1,5 @@
-Practice Quiz1. Dashboards can provide real-time visuals. * True  False
+Practice Quiz
+
+1. Dashboards can provide real-time visuals. 
+* True
+  False
