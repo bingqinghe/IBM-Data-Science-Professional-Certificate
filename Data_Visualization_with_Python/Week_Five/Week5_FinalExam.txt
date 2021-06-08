@@ -134,3 +134,21 @@ Final Exam
   A scatter map
   None of the above
 * A bubble plot
+
+16. What is a way of statistically representing the distribution of the data through five main dimensions?
+* Box plot
+  Line plot
+  Histogram 
+  Scatter plot
+  
+17. Which of the following is an incorrect statement regarding Folium?
+* Folium is available by default and does not need to be installed.
+  The Folium results are interactive, which makes this library very useful for dashboard building.
+  Folium is a powerful Python library that helps you create several type of Leaflet maps.
+  Folium builds on the data wrangling strengths of the Python ecosystem and the mapping strengths of the Leaflet.js library.
+  
+18. Which of the following statements is true for Plotly?
+  Includes chart types like statistical, financial, maps, scientific, and 3-dimensional.
+  An interactive, open-source plotting library.
+* All of the above
+  Supports over 40 unique chart types.
