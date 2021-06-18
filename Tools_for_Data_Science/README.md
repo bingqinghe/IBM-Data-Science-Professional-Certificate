@@ -29,5 +29,5 @@ You'll learn about some of the features and capabilities of what data scientists
 
 You’ll also learn about other IBM tools used to support data science projects, such as IBM Watson Knowledge Catalog, Data Refinery, and the SPSS Modeler.
 
-## Week Four: Final Assignment: [Create and Share Your Jupyter Notebook](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/Tools_for_Data_Science/Week_Four)
+## Week Four: Final Assignment: Create and Share Your Jupyter Notebook
 This week, you will demonstrate your skills by creating and configuring a Jupyter Notebook. As part of your grade for this course, you will share your Jupyter Notebook with your peers for review.
