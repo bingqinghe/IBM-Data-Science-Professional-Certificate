@@ -17,12 +17,12 @@ In this course, we will meet some data science practitioners and we will get an 
    
    Finally, you will complete a reading assignment to find out why data science is considered the sexiest job in the 21st century.
 
-## Week Two: [Data Science Topics](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/What_is_Data_Science/Week_Two)
+## Week Two: [Data Science Topics](./Week_Two)
    In this module, you will hear from Norman White, the Faculty Director of the Stern Centre for Research Computing at New York University, as he talks about data science and the skills required for anyone interested in pursuing a career in this field. He also advises those looking to start a career in data science. 
    
    Finally, you will complete reading assignments to learn about the process of mining a given dataset and about regression analysis.
    
-## Week Three: [Data Science in Business](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/What_is_Data_Science/Week_Three)
+## Week Three: [Data Science in Business](./Week_Three)
    In this module, you will learn about the approaches companies can take to start working with data science. 
    
    You will learn about some of the qualities that differentiate data scientists from other professionals. 
