@@ -10,30 +10,30 @@ The emphasis in this course is on hands-on and practical learning. As such, you 
 
 No prior knowledge of databases, SQL, Python, or programming is required.
 
-## Week One: Getting Started with SQL
+## Week One: [Getting Started with SQL](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/Databases_and_SQL_for_Data_Science_with_Python/Week_One)
 In this module, you will learn some basic SQL statements and practice them hands-on on a live database.
 
-## Week Two: Introduction to Relational Databases and Tables
+## Week Two: [Introduction to Relational Databases and Tables](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/Databases_and_SQL_for_Data_Science_with_Python/Week_Two)
 In this module, you will explore the fundamental concepts behind databases, tables, and the relationships between them. 
 
 You will then create an instance of a database, discover SQL statements that allow you to create and manipulate tables, and then practice them on your own live database.
 
-## Week Three: Intermediate SQL
+## Week Three: [Intermediate SQL](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/Databases_and_SQL_for_Data_Science_with_Python/Week_Three)
 In this module, you will learn how to use string patterns and ranges to search data and how to sort and group data in result sets. 
 
 You will also practice composing nested queries and execute select statements to access data from multiple tables.
 
-## Week Four: Accessing Databases using Python
+## Week Four: [Accessing Databases using Python](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/Databases_and_SQL_for_Data_Science_with_Python/Week_Four)
 In this module you will learn the basic concepts related to using Python to connect to databases. In a Jupyter Notebook, you will create tables, load data, query data using SQL, and analyze data using Python.
 
-## Week Five: Course Assignment
+## Week Five: [Course Assignment](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/Databases_and_SQL_for_Data_Science_with_Python/Week_Five)
 In this assignment, you will be working with multiple real world datasets for the city of Chicago. 
 
 You will be asked questions that will help you understand the data just as you would in the real wold. 
 
 You will be assessed on the correctness of your SQL queries and results.
 
-## Week Six: Bonus Module: Advanced SQL for Data Engineer (Honors)
+## Week Six: Bonus Module: [Advanced SQL for Data Engineer (Honors)](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/Databases_and_SQL_for_Data_Science_with_Python/Week_Six)
 This module covers some advanced SQL techniques that will be useful for Data Engineers. 
 
 If you are following the Data Engineering track, you must complete this module. Completion of this module is not required for those completing the Data Science or Data Analyst tracks. 
