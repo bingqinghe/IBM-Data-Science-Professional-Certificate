@@ -1,1 +1,8 @@
-Practice Quiz: Importing and Exporting Data in Python1. What does the following method do to the dataframe?        df : df.head(12)* Show the first 12 rows of dataframe.     Shows the bottom 12 rows of dataframe.
+Practice Quiz: Importing and Exporting Data in Python
+
+1. What does the following method do to the dataframe?
+
+        df : df.head(12)
+
+* Show the first 12 rows of dataframe.   
+  Shows the bottom 12 rows of dataframe.
