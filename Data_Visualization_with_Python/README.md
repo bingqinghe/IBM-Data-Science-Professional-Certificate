@@ -8,7 +8,7 @@ One of the key skills of a data scientist is the ability to tell a compelling st
 
 The main goal of this Data Visualization with Python course is to teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
 
-## Week One: Introduction to Data Visualization Tools
+## Week One: [Introduction to Data Visualization Tools](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/Data_Visualization_with_Python/Week_One)
 In this module, you will learn about data visualization and some of the best practices to keep in mind when creating plots and visuals. 
 
 You will also learn about the history and the architecture of Matplotlib and learn about basic plotting with Matplotlib. 
@@ -17,10 +17,10 @@ In addition, you will learn about the dataset on immigration to Canada, which wi
 
 Finally, you will briefly learn how to read csv files into a pandas dataframe and process and manipulate the data in the dataframe, and how to generate line plots using Matplotlib.
 
-## Week Two: Basic and Specialized Visualization Tools
+## Week Two: [Basic and Specialized Visualization Tools](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/Data_Visualization_with_Python/Week_Two)
 In this module, you learn about area plots and how to create them with Matplotlib, histograms and how to create them with Matplotlib, bar charts, and how to create them with Matplotlib, pie charts, and how to create them with Matplotlib, box plots and how to create them with Matplotlib, and scatter plots and bubble plots and how to create them with Matplotlib.
 
-## Week Three: Advanced Visualizations and Geospatial Data
+## Week Three: [Advanced Visualizations and Geospatial Data](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/Data_Visualization_with_Python/Week_Three)
 In this module, you will learn about advanced visualization tools such as waffle charts and word clouds and how to create them. 
 
 You will also learn about seaborn, which is another visualization library, and how to use it to generate attractive regression plots. 
@@ -29,12 +29,11 @@ In addition, you will learn about Folium, which is another visualization library
 
 Finally, you will learn how to use Folium to create maps of different regions of the world and how to superimpose markers on top of a map, and how to create choropleth maps.
 
-## Week Four: Creating Dashboards with Plotly and Dash
+## Week Four: [Creating Dashboards with Plotly and Dash](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/Data_Visualization_with_Python/Week_Four)
 In this module you will get started with dashboard creation using the Plotly library. 
 
 You will create a dashboard with a theme `US Domestic Airline Flights Performance`. 
 
 You will do this using a US airline reporting carrier on-time performance dataset, Plotly, and Dash concepts learned throughout the course. Hands-on labs will follow each concept to make you comfortable with using the library.
 
-## Week Five: Final Project
-
+## Week Five: [Final Project](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/Data_Visualization_with_Python/Week_Five)
