@@ -10,19 +10,19 @@ Since then, people working in data science have carved out a unique and distinct
 
 In this course, we will meet some data science practitioners and we will get an overview of what data science is today.
 
-## Week One: Defining Data Science and What Data Scientists Do
+## Week One: [Defining Data Science and What Data Scientists Do](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/What_is_Data_Science/Week_One)
    In this module, you will view the course syllabus to learn what will be taught in this course. 
    
    You will hear from data science professionals to discover what data science is, what data scientists do, and what tools and algorithms data scientists use on a daily basis. 
    
    Finally, you will complete a reading assignment to find out why data science is considered the sexiest job in the 21st century.
 
-## Week Two: Data Science Topics
+## Week Two: [Data Science Topics](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/What_is_Data_Science/Week_Two)
    In this module, you will hear from Norman White, the Faculty Director of the Stern Centre for Research Computing at New York University, as he talks about data science and the skills required for anyone interested in pursuing a career in this field. He also advises those looking to start a career in data science. 
    
    Finally, you will complete reading assignments to learn about the process of mining a given dataset and about regression analysis.
    
-## Week Three: Data Science in Business
+## Week Three: [Data Science in Business](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/What_is_Data_Science/Week_Three)
    In this module, you will learn about the approaches companies can take to start working with data science. 
    
    You will learn about some of the qualities that differentiate data scientists from other professionals. 
