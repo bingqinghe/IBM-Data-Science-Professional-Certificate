@@ -1,1 +1,6 @@
-Practice Quiz: Python Packages for Data Science1. What description best describes the library Pandas?  Includes functions for some advanced math problems as listed in the slide aswell as data visualization.* Offers data structure and tools for effective data manipulation and analysis. It provides fast access to structured data. The primary instrument of Pandas is a two-dimensional table consisting of columns and rows labels which are called a DataFrame. It is designed to provide an easy indexing function.  Uses arrays as their inputs and outputs. It can be extended to objects for matrices, and with a little change of coding, developers perform fast array processing.
+Practice Quiz: Python Packages for Data Science
+
+1. What description best describes the library Pandas?
+  Includes functions for some advanced math problems as listed in the slide as well as data visualization.
+* Offers data structure and tools for effective data manipulation and analysis. It provides fast access to structured data. The primary instrument of Pandas is two-dimensional table consisting of columns and rows labels which are called a DataFrame. It is designed to provide an easy indexing function.
+  Uses arrays as their inputs and outputs. It can be extended to objects for matrices, and with a little change of coding, developers perform fast array processing.
