@@ -1,0 +1,1 @@
+Practice Quiz: Understanding the Data1. Each column contains a:* attribute or feature  different used car
