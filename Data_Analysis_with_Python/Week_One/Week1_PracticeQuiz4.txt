@@ -1,0 +1,1 @@
+Practice Quiz: Getting Started Analyzing Data in Python1. To enable a summary of all the columns, what must the parameter include be set to for the method describe?* df.describe(include=¡°all¡±)   df.describe(include=¡°None¡±)
