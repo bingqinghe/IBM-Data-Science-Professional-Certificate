@@ -10,7 +10,7 @@ Since then, people working in data science have carved out a unique and distinct
 
 In this course, we will meet some data science practitioners and we will get an overview of what data science is today.
 
-## Week One: [Defining Data Science and What Data Scientists Do](https://github.com/bingqinghe/IBM-Data-Science-Professional-Certificate/tree/master/What_is_Data_Science/Week_One)
+## Week One: [Defining Data Science and What Data Scientists Do](./Week_One)
    In this module, you will view the course syllabus to learn what will be taught in this course. 
    
    You will hear from data science professionals to discover what data science is, what data scientists do, and what tools and algorithms data scientists use on a daily basis. 
