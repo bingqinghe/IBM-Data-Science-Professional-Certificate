@@ -19,7 +19,7 @@ Data Analysis libraries: will learn to use Pandas, Numpy and Scipy libraries to 
 
 ## Week One: [Importing Datasets](./Week_One)
 
-## Week Two: Data Wrangling
+## Week Two: [Data Wrangling](./Week_Two)
 
 ## Week Three: Exploratory Data Analysis
 
