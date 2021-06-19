@@ -1,1 +1,5 @@
-Practice Quiz: Data Formatting in Python1. How would you cast each element in the column "price" to an integer?   df["price"] = int(df["price"])* df["price"] = df["price"].astype("int")
+Practice Quiz: Data Formatting in Python
+
+1. How would you cast each element in the column "price" to an integer? 
+  df["price"] = int(df["price"])
+* df["price"] = df["price"].astype("int")
