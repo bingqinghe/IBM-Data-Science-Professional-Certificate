@@ -1,1 +1,5 @@
-Practice Quiz: Data Normalization in Python1. What is the maximum value for feature scaling?* 1(Correct: We scale the feature to a value between 0 and 1 so the maximum value should be 1.)
+Practice Quiz: Data Normalization in Python
+
+1. What is the maximum value for feature scaling?
+* 1
+(Correct: We scale the feature to a value between 0 and 1 so the maximum value should be 1.)
