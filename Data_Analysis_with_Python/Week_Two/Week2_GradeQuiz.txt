@@ -1,1 +1,39 @@
-Graded Quiz: Data Wrangling1. What task do the following lines of code perform?        avg=df['bore'].mean(axis=0)        df['bore'].replace(np.nan, avg, inplace= True)* calculate the mean value for the 'bore' column and replace all the NaN values of that column by the mean value  nothing; because the parameter inplace is not set to true  'horsepower'  2. Consider the dataframe df; convert the column df["city-mpg"] to df["city-L/100km'] by dividing 235 by each element in the column 'city-mpg'.* df['city-L/100km'] = 235/df["city-mpg"]  df['city-L/100km'] = df["city-mpg"].diV(235)3. How would you cast the column "losses" to an integer?* df[["losses"]]=df[["losses"]].astype("int")  df[["losses"]].astype("int")4. The following code is an example of:        df['length'] = df['length']/df['length'].max()* simple feature scaling  min-max scaling  z-score5. Consider the two columns 'horsepower', and 'horsepower-binned'; from the dataframe df; how many categories are there in the 'horsepower-binned' column?* 36. The following code is an example of:        (df["length"]-df["length"].mean())/df["length"].std()  simple feature scaling  min-max scaling* z-score
+Graded Quiz: Data Wrangling
+
+1. What task do the following lines of code perform?
+
+        avg=df['bore'].mean(axis=0)
+        df['bore'].replace(np.nan, avg, inplace=True)
+
+* calculate the mean value for the 'bore' column and replace all the NaN values of that column by the mean value
+  nothing; because the parameter inplace is not set to true
+  'horsepower'
+  
+2. Consider the dataframe df; convert the column df["city-mpg"] to df["city-L/100km'] by dividing 235 by each element in the column 'city-mpg'.
+
+* df['city-L/100km'] = 235/df["city-mpg"]
+  df['city-L/100km'] = df["city-mpg"].diV(235)
+
+3. How would you cast the column "losses" to an integer?
+
+* df[["losses"]]=df[["losses"]].astype("int")
+  df[["losses"]].astype("int")
+
+4. The following code is an example of:
+
+        df['length'] = df['length']/df['length'].max()
+
+* simple feature scaling
+  min-max scaling
+  z-score
+
+5. Consider the two columns 'horsepower', and 'horsepower-binned'; from the dataframe df; how many categories are there in the 'horsepower-binned' column?
+* 3
+
+6. The following code is an example of:
+
+        (df["length"]-df["length"].mean())/df["length"].std()
+
+  simple feature scaling
+  min-max scaling
+* z-score
