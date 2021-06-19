@@ -1,1 +1,5 @@
-Practice Quiz: Turning categorical variables into quantitative variables in Python1. Consider the column 'diesel'; what should the value for Car B be?  0* 1
+Practice Quiz: Turning categorical variables into quantitative variables in Python
+
+1. Consider the column 'diesel'; what should the value for Car B be?
+  0
+* 1
