@@ -1,1 +1,35 @@
-Graded Quiz: Exploratory Data Analysis1. What task does the method value_counts perform?  Returns summary statistics* Returns counts of unique values  Returns the first five columns of a dataframe2. If we have 10 columns and 100 samples, how large is the output of df.corr()?  10 x 100* 10x10  100x1003. If the p-value of the Pearson Correlation is 1, then ...  The variables are correlated  The variables are not correlated* None of the above4. Consider the following dataframe:        df_test = df[['body-style', 'price']]           The following operation is applied:        df_grp = df_test.groupby(['body-style'], as_index=False).mean()           What are the resulting values of: df_grp[¡®price¡¯]?* The average price for each body style  The average price  The average body style5. What is the Pearson Correlation between variables X and Y, if X=Y?  -1* 1  0
+Graded Quiz: Exploratory Data Analysis
+
+1. What task does the method value_counts perform?
+  Returns summary statistics
+* Returns counts of unique values
+  Returns the first five columns of a dataframe
+
+2. If we have 10 columns and 100 samples, how large is the output of df.corr()?
+  10 x 100
+* 10x10
+  100x100
+
+3. If the p-value of the Pearson Correlation is 1, then ...
+  The variables are correlated
+  The variables are not correlated
+* None of the above
+
+4. Consider the following dataframe:
+
+        df_test = df[['body-style', 'price']]
+        
+   The following operation is applied:
+
+        df_grp = df_test.groupby(['body-style'], as_index=False).mean()
+        
+   What are the resulting values of: df_grp['price']?
+
+* The average price for each body style
+  The average price
+  The average body style
+
+5. What is the Pearson Correlation between variables X and Y, if X=Y?
+  -1
+* 1
+  0
