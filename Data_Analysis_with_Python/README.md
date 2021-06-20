@@ -21,7 +21,7 @@ Data Analysis libraries: will learn to use Pandas, Numpy and Scipy libraries to 
 
 ## Week Two: [Data Wrangling](./Week_Two)
 
-## Week Three: Exploratory Data Analysis
+## Week Three: [Exploratory Data Analysis](./Week_Three)
 
 ## Week Four: Model Development
 
