@@ -1,1 +1,5 @@
-Practice Quiz: GroupBy in Python1. Select the appropriate description of a pivot table: * A pivot table has one variable displayed along the columns and the other variable displayed along the rows.    A pivot table contains statistical information for each column  
+Practice Quiz: GroupBy in Python
+
+1. Select the appropriate description of a pivot table: 
+* A pivot table has one variable displayed along the columns and the other variable displayed along the rows.  
+  A pivot table contains statistical information for each column 
