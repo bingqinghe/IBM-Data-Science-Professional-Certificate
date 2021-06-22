@@ -1,0 +1,1 @@
+Practice Quiz: Measures for In-Sample Evaluation1. Of the following answer values, which one is the minimum value of R^2?  10  0* 1
