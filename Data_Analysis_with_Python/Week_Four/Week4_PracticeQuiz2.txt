@@ -1,1 +1,9 @@
-Practice Quiz: Polynomial Regression and Pipelines1. What functions are used to generate Polynomial Regression with more than one dimension        f=np.polyfit(x,y,3)        p=np.poly1d(f)*       pr=PolynomialFeatures(degree=2)        pr.fit_transform([1,2], include_bias=False)
+Practice Quiz: Polynomial Regression and Pipelines
+
+1. What functions are used to generate Polynomial Regression with more than one dimension
+
+        f=np.polyfit(x,y,3)
+        p=np.poly1d(f)
+
+*       pr=PolynomialFeatures(degree=2)
+        pr.fit_transform([1,2], include_bias=False)
