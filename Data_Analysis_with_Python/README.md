@@ -23,8 +23,8 @@ Data Analysis libraries: will learn to use Pandas, Numpy and Scipy libraries to 
 
 ## Week Three: [Exploratory Data Analysis](./Week_Three)
 
-## Week Four: Model Development
+## Week Four: [Model Development](./Week_Four)
 
-## Week Five: Model Evaluation
+## Week Five: [Model Evaluation](./Week_Five)
 
-## Week Six: Final Assignment
+## Week Six: [Final Assignment](./Week_Six)
