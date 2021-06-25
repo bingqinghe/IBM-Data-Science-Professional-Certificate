@@ -1,1 +1,5 @@
-Practice Quiz: Overfitting, Underfitting and Model Selection1. In the following plot, the vertical axis shows the mean square error and the horizontal axis represents the order of the polynomial. The red line represents the training error the blue line is the test error. Should you select the 16 order polynomial.* no  yes
+Practice Quiz: Overfitting, Underfitting and Model Selection
+
+1. In the following plot, the vertical axis shows the mean square error and the horizontal axis represents the order of the polynomial. The red line represents the training error the blue line is the test error. Should you select the 16 order polynomial.
+* no
+  yes
