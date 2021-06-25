@@ -1,1 +1,6 @@
-Practice Quiz: Ridge Regression1. the following models were all trained on the same data, select the model with the highest value for alpha:  a  b* c
+Practice Quiz: Ridge Regression
+
+1. the following models were all trained on the same data, select the model with the highest value for alpha:
+  a
+  b
+* c
