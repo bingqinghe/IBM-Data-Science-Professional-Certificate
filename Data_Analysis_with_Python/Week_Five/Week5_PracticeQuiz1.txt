@@ -1,0 +1,1 @@
+Practice Quiz: Model Evaluation1. What function randomly splits a dataset into training and testing subsets* train_test_split  cross_val_score  cross_val_predict
