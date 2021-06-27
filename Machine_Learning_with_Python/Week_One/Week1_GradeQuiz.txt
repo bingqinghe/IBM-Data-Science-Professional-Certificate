@@ -11,7 +11,7 @@ Intro to Machine Learning
 
 3. When comparing Supervised with Unsupervised learning, is this sentence True or False?
 
-        In contrast to Supervised learning, Unsupervised learning has more models and more evaluation methods that can be used in order to ensure the outcome of the model is accurate. 
+   In contrast to Supervised learning, Unsupervised learning has more models and more evaluation methods that can be used in order to ensure the outcome of the model is accurate. 
 
 * False
   True
