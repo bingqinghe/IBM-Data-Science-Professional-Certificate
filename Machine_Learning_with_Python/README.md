@@ -22,7 +22,7 @@ You’ll get a general overview of Machine Learning topics such as supervised vs
 
 Also, you understand the advantage of using Python libraries for implementing Machine Learning models.
 
-## Week Two: Regression
+## Week Two: [Regression](./Week_Two)
 In this week, you will get a brief intro to regression. You learn about Linear, Non-linear, Simple and Multiple regression, and their applications. 
 
 You apply all these methods on two different datasets, in the lab part. 
