@@ -29,7 +29,7 @@ You apply all these methods on two different datasets, in the lab part.
 
 Also, you learn how to evaluate your regression model, and calculate its accuracy.
 
-## Week Three: Classification
+## Week Three: [Classification](./Week_Three)
 In this week, you will learn about classification technique. 
 
 You practice with different classification algorithms, such as KNN, Decision Trees, Logistic Regression and SVM. 
