@@ -36,7 +36,7 @@ You practice with different classification algorithms, such as KNN, Decision Tre
 
 Also, you learn about pros and cons of each method, and different classification accuracy metrics.
 
-## Week Four: Clustering
+## Week Four: [Clustering](./Week_Four)
 In this section, you will learn about different clustering approaches. 
 
 You learn how to use clustering for customer segmentation, grouping same vehicles, and also clustering of weather stations. 
