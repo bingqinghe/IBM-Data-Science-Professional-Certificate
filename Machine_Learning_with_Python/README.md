@@ -43,7 +43,7 @@ You learn how to use clustering for customer segmentation, grouping same vehicle
 
 You understand 3 main types of clustering, including Partitioned-based Clustering, Hierarchical Clustering, and Density-based Clustering.
 
-## Week Five: Recommender Systems
+## Week Five: [Recommender Systems](./Week_Five)
 In this module, you will learn about recommender systems. 
 
 First, you will get introduced with main idea behind recommendation engines.
