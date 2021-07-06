@@ -1,1 +1,16 @@
-Recommender System1. What is the meaning of "Cold start" in collaborative filtering?  The difficulty in recommendation when we do not have enough ratings in the user-item dataset.* The difficulty in recommendation when we have new user, and we cannot make a profile for him, or when we have a new item, which has not got any rating yet.  The difficulty in recommendation when the number of users or items increases and the amount of data expands, so algorithms will begin to suffer drops in performance.2. What is a "Memory-based" recommender system?  In memory based approach, a model of users is developed in attempt to learn their preferences.* In memory based approach, we use the entire user-item dataset to generate a recommendation system.  In memory based approach, a recommender system is created using machine learning techniques such as regression, clustering, classification, etc. 3. What is the shortcoming of content-based recommender systems?  It needs to find similar group of users, so suffers from drops in performance, simply due to growth in the similarity computation.  As it is based on similarity among items and users, it is not easy to find the neighbour users.* Users will only get recommendations related to their preferences in their profile, and recommender engine may never recommend any item with other characteristics.
+Recommender System
+
+1. What is the meaning of "Cold start" in collaborative filtering?
+  The difficulty in recommendation when we do not have enough ratings in the user-item dataset.
+* The difficulty in recommendation when we have new user, and we cannot make a profile for him, or when we have a new item, which has not got any rating yet.
+  The difficulty in recommendation when the number of users or items increases and the amount of data expands, so algorithms will begin to suffer drops in performance.
+
+2. What is a "Memory-based" recommender system?
+  In memory based approach, a model of users is developed in attempt to learn their preferences.
+* In memory based approach, we use the entire user-item dataset to generate a recommendation system.
+  In memory based approach, a recommender system is created using machine learning techniques such as regression, clustering, classification, etc. 
+
+3. What is the shortcoming of content-based recommender systems?
+  It needs to find similar group of users, so suffers from drops in performance, simply due to growth in the similarity computation.
+  As it is based on similarity among items and users, it is not easy to find the neighbour users.
+* Users will only get recommendations related to their preferences in their profile, and recommender engine may never recommend any item with other characteristics.
