@@ -50,7 +50,7 @@ First, you will get introduced with main idea behind recommendation engines.
 
 Then you understand two main types of recommendation engines, namely, content-based and collaborative filtering.
 
-## Week Six: Final Project
+## Week Six: [Final Project](./Week_Six)
 In this module, you will do a project based of what you have learned so far. 
 
 You will submit a report of your project for peer evaluation.
