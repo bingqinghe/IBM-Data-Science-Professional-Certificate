@@ -1,1 +1,59 @@
-Final Exam1. Which of the following is true about Machine Learning?  Machine Learning models help us in tasks such as object recognition, summarization, and recommendation.  Machine Learning models iteratively learn from data and allow computers to find hidden insights.  Machine Learning was inspired by the learning process of human beings.* All of the above.2. Regression/Estimation, Classification, Clustering, and Associations are all examples of what?  Neural Networks  Fuzzy Logic Systems* Machine Learning techniques  Support Vector Machines3. When would you not use Multiple Linear Regression?* When we would like to predict the impacts that weather and temperature have on a particular crop.  None of the above.  When we would like to identify the strength of the effect that the independent variables have on a dependent variable.   When we would like to predict impacts of changes in independent variables on a dependent variable.4. Which of the following statements are TRUE about Polynomial Regression?* Polynomial regression can use the same mechanism as Multiple Linear Regression to find the parameters.* Polynomial regression fits a curve line to your data.* Polynomial regression models can fit using the Least Squares method.5. Which of the below is NOT a sample of classification problem?  Predicting whether an email is spam or not.  Predicting whether a customer will purchase a particular item based on an advertising campaign.  Predicting whether a customer would purchase an associated product based on previous purchases.  None of the above.6. Which of the following is FALSE for Logistic Regression?  Logistic regression can be used for both binary classification and multi-class classification.  In logistic regression, the dependent variable is binary.  Logistic regression is analogous to linear regression but takes a categorical/discrete target field instead of a numeric one.  Logistic regression models the relationship between two variables by fitting a linear equation to observe data, using an explanatory variable and a dependent variable.7. Which statement is NOT TRUE about k-means clustering?* As k-means is an iterative algorithm, it guarantees that it will always converge to the global optimum.   k-means divides the data into non-overlapping clusters without any cluster-internal structure.  The objective of k-means, is to form clusters in such a way that similar samples go into a cluster, and dissimilar samples fall into different clusters. 8. Which of the following are characteristics of DBSCAN? Select all that apply.* DBSCAN can find arbitrarily shaped clusters.* DBSCAN can find a cluster completely surrounded by a different cluster. * DBSCAN has a notion of noise, and is robust to outliers. * DBSCAN does not require one to specify the number of clusters such as k in k-means 9. What is not an advantage of Recommender Systems?  Recommender Systems benefit the service provider by increasing potential revenue and better security for its consumers.   Recommender Systems provide a better experience for the users by giving them a broader exposure to many different products they might be interested in.   Recommender Systems encourage users towards continual usage or purchase of their product.* None of the above.10. The statement ¡°Show me more of the same of what I¡¯ve liked before¡± is an example of what type of recommendation system?  Demographic-based  Collaborative  Utility-based* Content-based
+Final Exam
+
+1. Which of the following is true about Machine Learning?
+  Machine Learning models help us in tasks such as object recognition, summarization, and recommendation.
+  Machine Learning models iteratively learn from data and allow computers to find hidden insights.
+  Machine Learning was inspired by the learning process of human beings.
+* All of the above.
+
+2. Regression/Estimation, Classification, Clustering, and Associations are all examples of what?
+  Neural Networks
+  Fuzzy Logic Systems
+* Machine Learning techniques
+  Support Vector Machines
+
+3. When would you not use Multiple Linear Regression?
+* When we would like to predict the impacts that weather and temperature have on a particular crop.
+  None of the above.
+  When we would like to identify the strength of the effect that the independent variables have on a dependent variable. 
+  When we would like to predict impacts of changes in independent variables on a dependent variable.
+
+4. Which of the following statements are TRUE about Polynomial Regression?
+* Polynomial regression can use the same mechanism as Multiple Linear Regression to find the parameters.
+* Polynomial regression fits a curve line to your data.
+* Polynomial regression models can fit using the Least Squares method.
+
+5. Which of the below is NOT a sample of classification problem?
+  Predicting whether an email is spam or not.
+  Predicting whether a customer will purchase a particular item based on an advertising campaign.
+  Predicting whether a customer would purchase an associated product based on previous purchases.
+  None of the above.
+
+6. Which of the following is FALSE for Logistic Regression?
+  Logistic regression can be used for both binary classification and multi-class classification.
+  In logistic regression, the dependent variable is binary.
+  Logistic regression is analogous to linear regression but takes a categorical/discrete target field instead of a numeric one.
+  Logistic regression models the relationship between two variables by fitting a linear equation to observe data, using an explanatory variable and a dependent variable.
+
+7. Which statement is NOT TRUE about k-means clustering?
+* As k-means is an iterative algorithm, it guarantees that it will always converge to the global optimum. 
+  k-means divides the data into non-overlapping clusters without any cluster-internal structure.
+  The objective of k-means, is to form clusters in such a way that similar samples go into a cluster, and dissimilar samples fall into different clusters. 
+
+8. Which of the following are characteristics of DBSCAN? Select all that apply.
+* DBSCAN can find arbitrarily shaped clusters.
+* DBSCAN can find a cluster completely surrounded by a different cluster. 
+* DBSCAN has a notion of noise, and is robust to outliers. 
+* DBSCAN does not require one to specify the number of clusters such as k in k-means 
+
+9. What is not an advantage of Recommender Systems?
+  Recommender Systems benefit the service provider by increasing potential revenue and better security for its consumers. 
+  Recommender Systems provide a better experience for the users by giving them a broader exposure to many different products they might be interested in. 
+  Recommender Systems encourage users towards continual usage or purchase of their product.
+* None of the above.
+
+10. The statement "Show me more of the same of what I've liked before" is an example of what type of recommendation system?
+  Demographic-based
+  Collaborative
+  Utility-based
+* Content-based
