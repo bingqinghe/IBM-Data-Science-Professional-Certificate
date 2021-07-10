@@ -21,7 +21,7 @@ You will learn about different location data providers and what location data is
 
 Finally, you will be required to submit a link to a new repository on your Github account dedicated to this course.
 
-## Week Two: Foursquare API
+## Week Two: [Foursquare API](./Week_Two)
 In this module, you will learn in details about Foursquare, which is the location data provider we will be using in this course, and its API.
 
 Essentially, you will learn how to create a Foursquare developer account, and use your credentials to search for nearby venues of a specific type, explore a particular venue, and search for trending venues around a location.
