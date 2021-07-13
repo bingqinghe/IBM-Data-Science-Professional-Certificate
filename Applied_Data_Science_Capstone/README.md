@@ -26,13 +26,12 @@ In this module, you will learn in details about Foursquare, which is the locatio
 
 Essentially, you will learn how to create a Foursquare developer account, and use your credentials to search for nearby venues of a specific type, explore a particular venue, and search for trending venues around a location.
 
-## Week Three: Neighborhood Segmentation and Clustering
+## Week Three: [Neighborhood Segmentation and Clustering](./Week_Three)
 In this module, you will learn about k-means clustering, which is a form of unsupervised learning. 
 
 Then you will use clustering and the Foursquare API to segment and cluster the neighborhoods in the city of New York. 
 
 Furthermore, you will learn how to scrape website and parse HTML code using the Python package Beautifulsoup, and convert data into a pandas dataframe.
-
 
 ## Week Four: The Battle of Neighborhoods
 In this module, you will start working on the capstone project. 
