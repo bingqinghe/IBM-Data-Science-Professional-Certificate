@@ -33,10 +33,10 @@ Then you will use clustering and the Foursquare API to segment and cluster the n
 
 Furthermore, you will learn how to scrape website and parse HTML code using the Python package Beautifulsoup, and convert data into a pandas dataframe.
 
-## Week Four: The Battle of Neighborhoods
+## Week Four: [The Battle of Neighborhoods](./Week_Four)
 In this module, you will start working on the capstone project. 
 
 You will clearly define a problem and discuss the data that you will be using to solve the problem.
 
-## Week Five: The Battle of Neighborhoods (Cont'd)
+## Week Five: [The Battle of Neighborhoods (Cont'd)](./Week_Five)
 In this module, you will carry out all the remaining work to complete your capstone project. You will submit a report of your project for peer evaluation.
